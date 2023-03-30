@@ -8,4 +8,14 @@ We aim at advancing blind image quality assessment (BIQA), which predicts the hu
 
 ![image](https://github.com/zwx8981/LIQE/blob/main/clip_biqa.png)
 
+
+# Citation
+@inproceedings{zhang2023liqe,  
+  title={Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective},  
+  author={Zhang, Weixia and Zhai, Guangtao and Wei, Ying and Yang, Xiaokang and Ma, Kede},  
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},  
+  year={2023}
+}
+
+
 Source code will be released soon.
