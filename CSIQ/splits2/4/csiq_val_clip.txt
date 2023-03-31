@@ -1,0 +1,87 @@
+dst_imgs/awgn/fisher.AWGN.1.png	0.948	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.2.png	0.87	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.3.png	0.784	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.4.png	0.688	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.5.png	0.56	white noise	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.1.png	0.992	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.2.png	0.82	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.3.png	0.482	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.4.png	0.275	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.5.png	0.209	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.1.png	0.992	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.2.png	0.824	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.3.png	0.482	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.4.png	0.192	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.5.png	0.028	jpeg2000 compression	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.1.png	0.934	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.2.png	0.73	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.3.png	0.597	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.4.png	0.513	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.5.png	0.393	fnoise	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.1.png	0.944	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.2.png	0.639	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.3.png	0.417	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.4.png	0.2	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.5.png	0.087	gaussian blur	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.1.png	0.91	contrast	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.2.png	0.788	contrast	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.3.png	0.658	contrast	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.4.png	0.611	contrast	human	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.1.png	0.981	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.2.png	0.937	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.3.png	0.788	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.4.png	0.707	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.5.png	0.566	white noise	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.1.png	0.978	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.2.png	0.94	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.3.png	0.739	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.4.png	0.445	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.5.png	0.289	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.1.png	0.996	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.2.png	0.922	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.3.png	0.813	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.4.png	0.445	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.5.png	0.243	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.1.png	0.952	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.2.png	0.775	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.3.png	0.589	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.4.png	0.464	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.5.png	0.321	fnoise	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.1.png	0.98	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.2.png	0.86	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.3.png	0.7	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.4.png	0.54	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.5.png	0.304	gaussian blur	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.1.png	0.959	contrast	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.2.png	0.779	contrast	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.3.png	0.68	contrast	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.4.png	0.621	contrast	plant	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.1.png	0.968	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.2.png	0.869	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.3.png	0.741	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.4.png	0.618	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.5.png	0.487	white noise	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.1.png	0.976	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.2.png	0.957	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.3.png	0.819	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.4.png	0.463	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.5.png	0.334	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.1.png	0.982	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.2.png	0.91	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.3.png	0.694	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.4.png	0.499	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.5.png	0.246	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.1.png	0.802	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.2.png	0.703	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.3.png	0.578	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.4.png	0.453	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.5.png	0.364	fnoise	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.1.png	0.989	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.2.png	0.917	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.3.png	0.758	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.4.png	0.584	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.5.png	0.342	gaussian blur	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.1.png	0.875	contrast	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.2.png	0.71	contrast	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.3.png	0.607	contrast	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.4.png	0.494	contrast	landscape	invalid	invalid

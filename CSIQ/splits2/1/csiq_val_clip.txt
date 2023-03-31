@@ -1,0 +1,87 @@
+dst_imgs/awgn/aerial_city.AWGN.1.png	0.968	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.2.png	0.875	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.3.png	0.755	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.4.png	0.627	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.5.png	0.499	white noise	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.1.png	0.97	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.2.png	0.935	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.3.png	0.611	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.4.png	0.393	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.5.png	0.181	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.1.png	0.973	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.2.png	0.809	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.3.png	0.514	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.4.png	0.246	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.5.png	0.044	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.1.png	0.874	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.2.png	0.681	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.3.png	0.525	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.4.png	0.399	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.5.png	0.292	fnoise	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.1.png	0.975	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.2.png	0.886	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.3.png	0.741	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.4.png	0.536	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.5.png	0.104	gaussian blur	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.1.png	0.962	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.2.png	0.837	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.3.png	0.633	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.4.png	0.547	contrast	cityscape	invalid	invalid
+dst_imgs/awgn/bridge.AWGN.1.png	0.972	white noise	human	landscape	invalid
+dst_imgs/awgn/bridge.AWGN.2.png	0.912	white noise	human	landscape	invalid
+dst_imgs/awgn/bridge.AWGN.3.png	0.748	white noise	human	landscape	invalid
+dst_imgs/awgn/bridge.AWGN.4.png	0.591	white noise	human	landscape	invalid
+dst_imgs/awgn/bridge.AWGN.5.png	0.483	white noise	human	landscape	invalid
+dst_imgs/jpeg/bridge.JPEG.1.png	0.963	jpeg compression	human	landscape	invalid
+dst_imgs/jpeg/bridge.JPEG.2.png	0.924	jpeg compression	human	landscape	invalid
+dst_imgs/jpeg/bridge.JPEG.3.png	0.727	jpeg compression	human	landscape	invalid
+dst_imgs/jpeg/bridge.JPEG.4.png	0.257	jpeg compression	human	landscape	invalid
+dst_imgs/jpeg/bridge.JPEG.5.png	0.184	jpeg compression	human	landscape	invalid
+dst_imgs/jpeg2000/bridge.jpeg2000.1.png	0.962	jpeg2000 compression	human	landscape	invalid
+dst_imgs/jpeg2000/bridge.jpeg2000.2.png	0.797	jpeg2000 compression	human	landscape	invalid
+dst_imgs/jpeg2000/bridge.jpeg2000.3.png	0.591	jpeg2000 compression	human	landscape	invalid
+dst_imgs/jpeg2000/bridge.jpeg2000.4.png	0.349	jpeg2000 compression	human	landscape	invalid
+dst_imgs/jpeg2000/bridge.jpeg2000.5.png	0.175	jpeg2000 compression	human	landscape	invalid
+dst_imgs/fnoise/bridge.fnoise.1.png	0.949	fnoise	human	landscape	invalid
+dst_imgs/fnoise/bridge.fnoise.2.png	0.707	fnoise	human	landscape	invalid
+dst_imgs/fnoise/bridge.fnoise.3.png	0.571	fnoise	human	landscape	invalid
+dst_imgs/fnoise/bridge.fnoise.4.png	0.405	fnoise	human	landscape	invalid
+dst_imgs/fnoise/bridge.fnoise.5.png	0.303	fnoise	human	landscape	invalid
+dst_imgs/blur/bridge.BLUR.1.png	0.939	gaussian blur	human	landscape	invalid
+dst_imgs/blur/bridge.BLUR.2.png	0.818	gaussian blur	human	landscape	invalid
+dst_imgs/blur/bridge.BLUR.3.png	0.652	gaussian blur	human	landscape	invalid
+dst_imgs/blur/bridge.BLUR.4.png	0.364	gaussian blur	human	landscape	invalid
+dst_imgs/blur/bridge.BLUR.5.png	0.223	gaussian blur	human	landscape	invalid
+dst_imgs/contrast/bridge.contrast.1.png	0.964	contrast	human	landscape	invalid
+dst_imgs/contrast/bridge.contrast.2.png	0.861	contrast	human	landscape	invalid
+dst_imgs/contrast/bridge.contrast.3.png	0.655	contrast	human	landscape	invalid
+dst_imgs/contrast/bridge.contrast.4.png	0.542	contrast	human	landscape	invalid
+dst_imgs/awgn/native_american.AWGN.1.png	0.96	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.2.png	0.931	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.3.png	0.776	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.4.png	0.599	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.5.png	0.524	white noise	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.1.png	0.977	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.2.png	0.908	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.3.png	0.638	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.4.png	0.301	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.5.png	0.173	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.1.png	0.945	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.2.png	0.85	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.3.png	0.627	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.4.png	0.277	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.5.png	0.113	jpeg2000 compression	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.1.png	0.913	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.2.png	0.746	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.3.png	0.509	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.4.png	0.382	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.5.png	0.265	fnoise	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.1.png	0.965	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.2.png	0.828	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.3.png	0.635	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.4.png	0.393	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.5.png	0.132	gaussian blur	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.1.png	0.938	contrast	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.2.png	0.776	contrast	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.3.png	0.63	contrast	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.4.png	0.541	contrast	human	invalid	invalid

@@ -1,0 +1,233 @@
+Images/203.bmp	50.994413	realistic blur	human	indoor	invalid
+Images/145.bmp	55.592391	realistic blur	human	still_life	invalid
+Images/513.bmp	70.37037	realistic blur	human	invalid	invalid
+Images/236.bmp	30.983051	realistic blur	still_life	invalid	invalid
+Images/703.JPG	19.173684	underexposure	night	still_life	invalid
+Images/891.JPG	72.046243	other realistic	landscape	invalid	invalid
+Images/1115.JPG	64.005376	other realistic	landscape	invalid	invalid
+Images/612.JPG	71.005682	other realistic	human	landscape	invalid
+Images/29.bmp	38.506024	realistic blur	human	landscape	still_life
+Images/65.bmp	60.522843	other realistic	human	invalid	invalid
+Images/553.JPG	78.80814	other realistic	plant	invalid	invalid
+Images/801.JPG	64.282209	underexposure	night	invalid	invalid
+Images/218.bmp	67.988506	other realistic	still_life	invalid	invalid
+Images/649.JPG	53.775758	realistic blur	still_life	invalid	invalid
+Images/293.bmp	40.672316	realistic blur	animal	plant	invalid
+Images/32.bmp	68.788889	realistic blur	human	landscape	still_life
+Images/956.JPG	77.427746	other realistic	cityscape	invalid	invalid
+Images/57.bmp	61.557692	other realistic	human	indoor	still_life
+Images/366.bmp	53.86631	realistic blur	still_life	invalid	invalid
+Images/1031.JPG	67.456044	other realistic	still_life	invalid	invalid
+Images/15.bmp	56.398964	underexposure	human	landscape	invalid
+Images/985.JPG	34.975904	realistic noise	animal	invalid	invalid
+Images/164.bmp	80.5	other realistic	still_life	invalid	invalid
+Images/705.JPG	48.204545	underexposure	animal	invalid	invalid
+Images/204.bmp	75.481707	realistic blur	human	plant	invalid
+Images/633.JPG	26.202247	realistic noise	human	indoor	still_life
+Images/880.JPG	65.083333	realistic blur	landscape	invalid	invalid
+Images/954.JPG	62.79558	realistic blur	animal	cityscape	invalid
+Images/1056.JPG	39.626582	underexposure	human	landscape	invalid
+Images/981.JPG	56.370558	realistic noise	human	still_life	invalid
+Images/1000.JPG	56.512195	realistic blur	animal	invalid	invalid
+Images/82.bmp	36.153333	realistic blur	human	invalid	invalid
+Images/932.JPG	60.245902	other realistic	landscape	invalid	invalid
+Images/951.JPG	75.982558	realistic blur	plant	invalid	invalid
+Images/9.bmp	77.903476	realistic blur	still_life	invalid	invalid
+Images/221.bmp	84.160221	other realistic	landscape	invalid	invalid
+Images/1014.JPG	58.809524	other realistic	animal	indoor	still_life
+Images/569.JPG	72.104938	underexposure	landscape	still_life	invalid
+Images/1098.JPG	10.760736	realistic noise	night	invalid	invalid
+Images/1012.JPG	75.874346	other realistic	landscape	invalid	invalid
+Images/914.JPG	67.472527	other realistic	human	landscape	invalid
+Images/49.bmp	51.899441	realistic noise	night	invalid	invalid
+Images/67.bmp	64.798969	other realistic	animal	invalid	invalid
+Images/853.JPG	83.679558	other realistic	animal	invalid	invalid
+Images/726.JPG	45.52381	other realistic	human	indoor	still_life
+Images/721.JPG	80.699387	other realistic	landscape	invalid	invalid
+Images/697.JPG	48.02	underexposure	night	others	invalid
+Images/445.bmp	47.243523	underexposure	landscape	invalid	invalid
+Images/1130.JPG	46.039216	other realistic	cityscape	human	invalid
+Images/1091.JPG	73.062176	other realistic	landscape	invalid	invalid
+Images/92.bmp	64.820359	underexposure	human	indoor	still_life
+Images/871.JPG	34.418605	realistic blur	animal	invalid	invalid
+Images/816.JPG	16.026846	realistic blur	human	night	invalid
+Images/500.bmp	68.452703	realistic blur	indoor	still_life	invalid
+Images/361.bmp	67.381503	other realistic	human	invalid	invalid
+Images/40.bmp	34.097701	realistic contrast change	indoor	invalid	invalid
+Images/112.bmp	30.31875	realistic contrast change	cityscape	invalid	invalid
+Images/202.bmp	24.515152	realistic blur	cityscape	human	night
+Images/1148.JPG	48.453039	other realistic	human	indoor	invalid
+Images/546.JPG	78.53012	other realistic	landscape	still_life	invalid
+Images/592.JPG	57.854922	realistic blur	plant	invalid	invalid
+Images/296.bmp	38.37931	realistic blur	human	landscape	still_life
+Images/743.JPG	72.952128	other realistic	landscape	invalid	invalid
+Images/469.bmp	58.546667	other realistic	cityscape	human	invalid
+Images/7.bmp	4.937824	overexposure	others	invalid	invalid
+Images/416.bmp	79.767568	other realistic	human	landscape	invalid
+Images/430.bmp	62.614973	other realistic	cityscape	human	plant
+Images/74.bmp	57.402685	other realistic	cityscape	plant	invalid
+Images/79.bmp	54.421875	realistic blur	human	invalid	invalid
+Images/725.JPG	36.962963	realistic blur	animal	invalid	invalid
+Images/501.bmp	37.863636	realistic blur	night	still_life	invalid
+Images/71.bmp	48.625698	other realistic	human	landscape	invalid
+Images/520.bmp	59.005181	realistic blur	human	landscape	still_life
+Images/1072.JPG	75.252874	underexposure	landscape	night	invalid
+Images/881.JPG	43.273632	realistic blur	human	invalid	invalid
+Images/837.JPG	21.768212	realistic blur	cityscape	night	invalid
+Images/306.bmp	51.173267	realistic contrast change	indoor	still_life	invalid
+Images/166.bmp	49.795812	realistic contrast change	still_life	invalid	invalid
+Images/333.bmp	51.092896	realistic blur	human	landscape	invalid
+Images/788.JPG	36.815642	realistic blur	plant	invalid	invalid
+Images/1099.JPG	74.615	other realistic	night	invalid	invalid
+Images/186.bmp	49.807692	realistic blur	still_life	invalid	invalid
+Images/791.JPG	60.131429	realistic contrast change	human	landscape	invalid
+Images/316.bmp	49.301587	overexposure	others	invalid	invalid
+Images/384.bmp	35.037975	realistic contrast change	landscape	still_life	invalid
+Images/135.bmp	65.943005	realistic blur	cityscape	night	invalid
+Images/525.bmp	78.819355	other realistic	cityscape	human	invalid
+Images/984.JPG	46.783626	other realistic	animal	invalid	invalid
+Images/363.bmp	36.521472	realistic blur	human	invalid	invalid
+Images/233.bmp	81.255556	other realistic	cityscape	invalid	invalid
+Images/833.JPG	21.722513	realistic blur	animal	invalid	invalid
+Images/579.JPG	68.421053	other realistic	night	others	invalid
+Images/849.JPG	80.981707	realistic blur	plant	invalid	invalid
+Images/419.bmp	71.897849	other realistic	landscape	still_life	invalid
+Images/581.JPG	41.680982	realistic blur	landscape	still_life	invalid
+Images/669.JPG	9.827586	realistic blur	human	night	invalid
+Images/681.JPG	18.596154	realistic blur	human	invalid	invalid
+Images/795.JPG	79.614213	realistic blur	plant	invalid	invalid
+Images/1048.JPG	57.856287	realistic blur	human	still_life	invalid
+Images/1033.JPG	69.788043	other realistic	indoor	still_life	invalid
+Images/8.bmp	42.412121	realistic noise	still_life	invalid	invalid
+Images/1050.JPG	72.060241	other realistic	indoor	invalid	invalid
+Images/1045.JPG	80.483516	other realistic	animal	invalid	invalid
+Images/674.JPG	68.111675	realistic blur	landscape	invalid	invalid
+Images/753.JPG	83.845238	other realistic	plant	invalid	invalid
+Images/274.bmp	50.188235	realistic blur	still_life	invalid	invalid
+Images/557.JPG	65.263441	underexposure	night	others	invalid
+Images/567.JPG	61.166667	realistic blur	landscape	still_life	invalid
+Images/997.JPG	65.449704	realistic blur	still_life	invalid	invalid
+Images/593.JPG	73.06875	underexposure	landscape	invalid	invalid
+Images/96.bmp	63.075269	underexposure	human	night	invalid
+Images/405.bmp	38.123457	underexposure	human	indoor	still_life
+Images/534.JPG	52.709677	realistic blur	human	invalid	invalid
+Images/426.bmp	67.401198	other realistic	human	plant	invalid
+Images/41.bmp	59.664865	realistic blur	still_life	invalid	invalid
+Images/152.bmp	79.43787	other realistic	human	landscape	invalid
+Images/765.JPG	82.073446	other realistic	plant	invalid	invalid
+Images/715.JPG	88.340782	other realistic	plant	invalid	invalid
+Images/706.JPG	45.568966	realistic blur	animal	invalid	invalid
+Images/655.JPG	12.562874	realistic blur	still_life	invalid	invalid
+Images/558.JPG	44.412903	realistic blur	human	indoor	invalid
+Images/684.JPG	27.853403	realistic blur	human	invalid	invalid
+Images/519.bmp	62.566138	other realistic	cityscape	human	invalid
+Images/952.JPG	42.422619	realistic noise	animal	invalid	invalid
+Images/767.JPG	85.524096	other realistic	plant	invalid	invalid
+Images/529.bmp	50.592357	underexposure	landscape	invalid	invalid
+Images/1144.JPG	71.272109	other realistic	indoor	still_life	invalid
+Images/878.JPG	72.259887	other realistic	human	still_life	invalid
+Images/539.JPG	64.118012	other realistic	landscape	invalid	invalid
+Images/1153.JPG	71.126316	realistic contrast change	cityscape	invalid	invalid
+Images/731.JPG	45.335196	realistic blur	animal	invalid	invalid
+Images/1125.JPG	61.606218	realistic blur	still_life	invalid	invalid
+Images/832.JPG	34.946108	realistic blur	animal	invalid	invalid
+Images/750.JPG	57.525424	realistic blur	plant	invalid	invalid
+Images/1163.bmp	87.065592	other realistic	cityscape	human	invalid
+Images/462.bmp	65.532544	realistic noise	still_life	invalid	invalid
+Images/176.bmp	61.345361	underexposure	cityscape	human	invalid
+Images/589.JPG	81.47027	other realistic	landscape	invalid	invalid
+Images/679.JPG	7.078534	realistic blur	others	invalid	invalid
+Images/889.JPG	28.175824	realistic blur	animal	invalid	invalid
+Images/1003.JPG	30.48913	realistic noise	human	invalid	invalid
+Images/444.bmp	83.177083	other realistic	still_life	invalid	invalid
+Images/1162.bmp	62.661712	other realistic	animal	landscape	invalid
+Images/1029.JPG	81.516129	other realistic	indoor	still_life	invalid
+Images/836.JPG	61.680412	realistic blur	cityscape	night	invalid
+Images/859.JPG	49.205128	realistic blur	plant	invalid	invalid
+Images/740.JPG	69.286517	realistic blur	plant	invalid	invalid
+Images/877.JPG	87.847826	realistic blur	animal	invalid	invalid
+Images/618.JPG	74.906977	other realistic	landscape	invalid	invalid
+Images/807.JPG	71.492147	realistic blur	night	still_life	invalid
+Images/318.bmp	35.169312	realistic noise	human	invalid	invalid
+Images/374.bmp	43.187166	realistic blur	human	indoor	invalid
+Images/391.bmp	82.775401	other realistic	landscape	invalid	invalid
+Images/249.bmp	73.184783	other realistic	cityscape	human	invalid
+Images/472.bmp	53.779874	realistic blur	plant	invalid	invalid
+Images/235.bmp	53.152439	realistic blur	cityscape	human	still_life
+Images/1103.JPG	57.701087	other realistic	human	invalid	invalid
+Images/16.bmp	77.602151	other realistic	still_life	invalid	invalid
+Images/349.bmp	69.283333	other realistic	landscape	invalid	invalid
+Images/661.JPG	19.803571	underexposure	night	still_life	invalid
+Images/160.bmp	41.347059	underexposure	human	still_life	invalid
+Images/251.bmp	61.777174	other realistic	still_life	invalid	invalid
+Images/240.bmp	53.08	overexposure	cityscape	human	landscape
+Images/129.bmp	72.882682	other realistic	cityscape	human	invalid
+Images/634.JPG	16.134503	realistic blur	others	invalid	invalid
+Images/570.JPG	43.118919	realistic blur	cityscape	landscape	still_life
+Images/536.JPG	40.396648	realistic blur	animal	invalid	invalid
+Images/1114.JPG	76.962963	other realistic	landscape	still_life	invalid
+Images/1068.JPG	56.732984	other realistic	human	indoor	invalid
+Images/383.bmp	69.702857	other realistic	human	landscape	invalid
+Images/848.JPG	79.592593	other realistic	animal	plant	invalid
+Images/718.JPG	46.424084	realistic blur	human	indoor	still_life
+Images/963.JPG	78.842424	other realistic	others	invalid	invalid
+Images/1018.JPG	42.439759	realistic blur	indoor	still_life	invalid
+Images/820.JPG	78.331361	other realistic	still_life	invalid	invalid
+Images/52.bmp	69.578947	realistic blur	cityscape	human	still_life
+Images/920.JPG	75.869048	other realistic	cityscape	still_life	invalid
+Images/495.bmp	57.097561	realistic blur	human	still_life	invalid
+Images/913.JPG	75.540881	other realistic	still_life	invalid	invalid
+Images/358.bmp	50.668478	realistic blur	still_life	invalid	invalid
+Images/1053.JPG	72.48913	underexposure	landscape	plant	invalid
+Images/328.bmp	82.539394	realistic blur	still_life	invalid	invalid
+Images/973.JPG	73.30814	other realistic	still_life	invalid	invalid
+Images/142.bmp	26.405714	realistic contrast change	human	indoor	invalid
+Images/468.bmp	7.369565	realistic blur	others	invalid	invalid
+Images/580.JPG	63.580645	realistic contrast change	landscape	still_life	invalid
+Images/114.bmp	24.871134	realistic blur	human	invalid	invalid
+Images/609.JPG	65.455	other realistic	human	landscape	invalid
+Images/1118.JPG	53.645349	realistic blur	human	indoor	invalid
+Images/601.JPG	60.946237	realistic noise	human	night	invalid
+Images/620.JPG	48.856287	underexposure	landscape	invalid	invalid
+Images/749.JPG	81.585227	other realistic	plant	invalid	invalid
+Images/608.JPG	59.988372	realistic blur	plant	invalid	invalid
+Images/195.bmp	69.18408	other realistic	still_life	invalid	invalid
+Images/239.bmp	3.497585	realistic blur	night	others	invalid
+Images/113.bmp	68.217143	other realistic	human	plant	invalid
+Images/398.bmp	36.895706	realistic blur	human	indoor	invalid
+Images/122.bmp	79.367089	other realistic	others	invalid	invalid
+Images/407.bmp	55.461538	realistic blur	human	indoor	still_life
+Images/668.JPG	9.208333	realistic blur	human	invalid	invalid
+Images/55.bmp	83.283422	other realistic	still_life	invalid	invalid
+Images/207.bmp	43.668639	realistic noise	landscape	night	invalid
+Images/229.bmp	57.666667	realistic blur	human	night	still_life
+Images/532.bmp	27.698225	underexposure	human	indoor	invalid
+Images/812.JPG	64.610256	realistic blur	animal	invalid	invalid
+Images/930.JPG	50.350877	realistic blur	cityscape	night	invalid
+Images/690.JPG	77.827586	other realistic	animal	invalid	invalid
+Images/1060.JPG	61.218579	other realistic	indoor	still_life	invalid
+Images/192.bmp	35.483516	other realistic	human	landscape	still_life
+Images/851.JPG	70.607735	other realistic	landscape	invalid	invalid
+Images/479.bmp	66.014493	other realistic	indoor	still_life	invalid
+Images/960.JPG	44.6875	realistic blur	human	indoor	invalid
+Images/950.JPG	74.462366	realistic blur	plant	invalid	invalid
+Images/150.bmp	65.796178	other realistic	cityscape	human	invalid
+Images/505.bmp	63.090361	other realistic	human	landscape	invalid
+Images/1129.JPG	55.913514	realistic blur	indoor	still_life	invalid
+Images/336.bmp	47.379121	realistic blur	human	indoor	still_life
+Images/279.bmp	70.64497	realistic blur	still_life	invalid	invalid
+Images/18.bmp	64.551913	realistic noise	human	still_life	invalid
+Images/844.JPG	91.43617	other realistic	plant	invalid	invalid
+Images/994.JPG	65.460674	other realistic	landscape	invalid	invalid
+Images/577.JPG	76.11828	underexposure	night	invalid	invalid
+Images/90.bmp	37.04878	realistic contrast change	landscape	invalid	invalid
+Images/43.bmp	18.477707	realistic blur	cityscape	still_life	invalid
+Images/969.JPG	80.552083	other realistic	others	invalid	invalid
+Images/1074.JPG	82.204678	other realistic	indoor	still_life	invalid
+Images/396.bmp	68.148515	realistic blur	human	night	invalid
+Images/587.JPG	66.695906	other realistic	human	landscape	invalid
+Images/874.JPG	6.524862	realistic blur	animal	invalid	invalid
+Images/311.bmp	22.655844	realistic blur	animal	cityscape	human
+Images/1016.JPG	65.634731	underexposure	indoor	still_life	invalid
+Images/736.JPG	76.903955	realistic blur	plant	invalid	invalid
+Images/702.JPG	4.343915	realistic blur	others	invalid	invalid

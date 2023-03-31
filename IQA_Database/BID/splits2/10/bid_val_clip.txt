@@ -1,0 +1,59 @@
+ImageDatabase/DatabaseImage0196.JPG	0.796254	realistic blur	night	still_life	invalid
+ImageDatabase/DatabaseImage0579.JPG	3.477042	realistic noise	animal	invalid	invalid
+ImageDatabase/DatabaseImage0233.JPG	0.754611	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0549.JPG	4.412089	other realistic	human	landscape	invalid
+ImageDatabase/DatabaseImage0357.JPG	4.173149	other realistic	plant	invalid	invalid
+ImageDatabase/DatabaseImage0522.JPG	3.337957	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0540.JPG	1.29692	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0485.JPG	1.182315	realistic blur	animal	plant	still_life
+ImageDatabase/DatabaseImage0074.JPG	3.961583	other realistic	landscape	invalid	invalid
+ImageDatabase/DatabaseImage0005.JPG	4.200862	realistic contrast change	cityscape	still_life	invalid
+ImageDatabase/DatabaseImage0022.JPG	4.233081	other realistic	animal	landscape	invalid
+ImageDatabase/DatabaseImage0156.JPG	2.295709	realistic blur	landscape	plant	invalid
+ImageDatabase/DatabaseImage0121.JPG	2.441247	realistic blur	cityscape	night	still_life
+ImageDatabase/DatabaseImage0515.JPG	1.83359	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0294.JPG	4.508032	other realistic	human	landscape	invalid
+ImageDatabase/DatabaseImage0041.JPG	1.34816	realistic blur	human	invalid	invalid
+ImageDatabase/DatabaseImage0356.JPG	4.41745	other realistic	plant	invalid	invalid
+ImageDatabase/DatabaseImage0329.JPG	1.072328	realistic blur	plant	invalid	invalid
+ImageDatabase/DatabaseImage0081.JPG	3.169173	realistic noise	animal	invalid	invalid
+ImageDatabase/DatabaseImage0260.JPG	4.76302	other realistic	still_life	invalid	invalid
+ImageDatabase/DatabaseImage0475.JPG	4.591355	other realistic	animal	plant	invalid
+ImageDatabase/DatabaseImage0258.JPG	0.838355	underexposure	night	still_life	invalid
+ImageDatabase/DatabaseImage0094.JPG	3.190192	underexposure	night	invalid	invalid
+ImageDatabase/DatabaseImage0399.JPG	0.3054	realistic blur	night	invalid	invalid
+ImageDatabase/DatabaseImage0552.JPG	3.276166	overexposure	human	landscape	invalid
+ImageDatabase/DatabaseImage0155.JPG	4.04855	other realistic	others	invalid	invalid
+ImageDatabase/DatabaseImage0114.JPG	2.34135	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0043.JPG	1.504192	realistic blur	human	invalid	invalid
+ImageDatabase/DatabaseImage0220.JPG	1.758073	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0500.JPG	3.927968	other realistic	plant	invalid	invalid
+ImageDatabase/DatabaseImage0296.JPG	2.570938	realistic blur	night	still_life	invalid
+ImageDatabase/DatabaseImage0344.JPG	3.643167	other realistic	plant	invalid	invalid
+ImageDatabase/DatabaseImage0255.JPG	0.276263	realistic blur	still_life	invalid	invalid
+ImageDatabase/DatabaseImage0292.JPG	1.098567	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0012.JPG	4.255742	underexposure	human	landscape	still_life
+ImageDatabase/DatabaseImage0246.JPG	0.29153	realistic blur	others	invalid	invalid
+ImageDatabase/DatabaseImage0306.JPG	3.818828	realistic blur	plant	invalid	invalid
+ImageDatabase/DatabaseImage0066.JPG	3.40016	underexposure	night	invalid	invalid
+ImageDatabase/DatabaseImage0431.JPG	4.142788	realistic blur	others	invalid	invalid
+ImageDatabase/DatabaseImage0381.JPG	4.240227	other realistic	landscape	invalid	invalid
+ImageDatabase/DatabaseImage0411.JPG	4.350904	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0091.JPG	0.634339	realistic blur	cityscape	human	night
+ImageDatabase/DatabaseImage0374.JPG	4.436384	other realistic	animal	invalid	invalid
+ImageDatabase/DatabaseImage0401.JPG	1.496659	realistic blur	human	landscape	invalid
+ImageDatabase/DatabaseImage0524.JPG	3.471251	other realistic	human	still_life	invalid
+ImageDatabase/DatabaseImage0044.JPG	3.430586	other realistic	still_life	invalid	invalid
+ImageDatabase/DatabaseImage0340.JPG	3.62232	realistic blur	plant	invalid	invalid
+ImageDatabase/DatabaseImage0086.JPG	1.509551	realistic blur	others	invalid	invalid
+ImageDatabase/DatabaseImage0084.JPG	4.73386	other realistic	landscape	invalid	invalid
+ImageDatabase/DatabaseImage0217.JPG	0.309557	realistic blur	others	invalid	invalid
+ImageDatabase/DatabaseImage0149.JPG	4.119963	other realistic	cityscape	still_life	invalid
+ImageDatabase/DatabaseImage0208.JPG	0.96643	realistic blur	human	night	invalid
+ImageDatabase/DatabaseImage0199.JPG	3.936948	other realistic	animal	still_life	invalid
+ImageDatabase/DatabaseImage0284.JPG	4.604716	other realistic	landscape	invalid	invalid
+ImageDatabase/DatabaseImage0078.JPG	4.358753	underexposure	cityscape	human	night
+ImageDatabase/DatabaseImage0490.JPG	3.635888	realistic blur	animal	invalid	invalid
+ImageDatabase/DatabaseImage0135.JPG	2.276465	underexposure	night	plant	invalid
+ImageDatabase/DatabaseImage0287.JPG	1.5576	realistic blur	human	landscape	invalid
+ImageDatabase/DatabaseImage0206.JPG	2.364063	realistic blur	human	invalid	invalid

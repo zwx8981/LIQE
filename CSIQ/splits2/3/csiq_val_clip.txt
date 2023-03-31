@@ -1,0 +1,87 @@
+dst_imgs/awgn/sunset_sparrow.AWGN.1.png	0.958	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.2.png	0.821	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.3.png	0.674	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.4.png	0.542	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.5.png	0.451	white noise	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.1.png	0.957	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.2.png	0.883	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.3.png	0.658	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.4.png	0.278	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.5.png	0.174	jpeg compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.1.png	0.942	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.2.png	0.821	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.3.png	0.609	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.4.png	0.394	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.5.png	0.111	jpeg2000 compression	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.1.png	0.776	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.2.png	0.631	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.3.png	0.461	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.4.png	0.393	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.5.png	0.266	fnoise	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.1.png	0.913	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.2.png	0.809	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.3.png	0.693	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.4.png	0.452	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.5.png	0.154	gaussian blur	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.1.png	0.906	contrast	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.2.png	0.74	contrast	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.3.png	0.598	contrast	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.4.png	0.535	contrast	animal	night	invalid
+dst_imgs/awgn/child_swimming.AWGN.1.png	0.972	white noise	human	invalid	invalid
+dst_imgs/awgn/child_swimming.AWGN.2.png	0.88	white noise	human	invalid	invalid
+dst_imgs/awgn/child_swimming.AWGN.3.png	0.728	white noise	human	invalid	invalid
+dst_imgs/awgn/child_swimming.AWGN.4.png	0.587	white noise	human	invalid	invalid
+dst_imgs/awgn/child_swimming.AWGN.5.png	0.511	white noise	human	invalid	invalid
+dst_imgs/jpeg/child_swimming.JPEG.1.png	0.971	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/child_swimming.JPEG.2.png	0.97	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/child_swimming.JPEG.3.png	0.764	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/child_swimming.JPEG.4.png	0.486	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/child_swimming.JPEG.5.png	0.304	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg2000/child_swimming.jpeg2000.1.png	0.971	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/child_swimming.jpeg2000.2.png	0.957	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/child_swimming.jpeg2000.3.png	0.677	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/child_swimming.jpeg2000.4.png	0.453	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/child_swimming.jpeg2000.5.png	0.234	jpeg2000 compression	human	invalid	invalid
+dst_imgs/fnoise/child_swimming.fnoise.1.png	0.968	fnoise	human	invalid	invalid
+dst_imgs/fnoise/child_swimming.fnoise.2.png	0.774	fnoise	human	invalid	invalid
+dst_imgs/fnoise/child_swimming.fnoise.3.png	0.624	fnoise	human	invalid	invalid
+dst_imgs/fnoise/child_swimming.fnoise.4.png	0.43	fnoise	human	invalid	invalid
+dst_imgs/fnoise/child_swimming.fnoise.5.png	0.301	fnoise	human	invalid	invalid
+dst_imgs/blur/child_swimming.BLUR.1.png	0.968	gaussian blur	human	invalid	invalid
+dst_imgs/blur/child_swimming.BLUR.2.png	0.813	gaussian blur	human	invalid	invalid
+dst_imgs/blur/child_swimming.BLUR.3.png	0.71	gaussian blur	human	invalid	invalid
+dst_imgs/blur/child_swimming.BLUR.4.png	0.515	gaussian blur	human	invalid	invalid
+dst_imgs/blur/child_swimming.BLUR.5.png	0.242	gaussian blur	human	invalid	invalid
+dst_imgs/contrast/child_swimming.contrast.1.png	0.857	contrast	human	invalid	invalid
+dst_imgs/contrast/child_swimming.contrast.2.png	0.711	contrast	human	invalid	invalid
+dst_imgs/contrast/child_swimming.contrast.3.png	0.446	contrast	human	invalid	invalid
+dst_imgs/contrast/child_swimming.contrast.4.png	0.435	contrast	human	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.1.png	0.98	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.2.png	0.881	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.3.png	0.801	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.4.png	0.671	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.5.png	0.564	white noise	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.1.png	0.985	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.2.png	0.871	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.3.png	0.512	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.4.png	0.31	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.5.png	0.225	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.1.png	0.998	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.2.png	0.838	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.3.png	0.468	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.4.png	0.198	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.5.png	0.016	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.1.png	0.961	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.2.png	0.827	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.3.png	0.655	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.4.png	0.462	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.5.png	0.347	fnoise	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.1.png	0.94	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.2.png	0.765	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.3.png	0.482	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.4.png	0.253	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.5.png	0.067	gaussian blur	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.1.png	0.921	contrast	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.2.png	0.801	contrast	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.3.png	0.593	contrast	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.4.png	0.446	contrast	animal	invalid	invalid
