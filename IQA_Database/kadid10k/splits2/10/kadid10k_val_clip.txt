@@ -1,0 +1,1000 @@
+images/I21_01_01.png	4.7	gaussian blur	landscape	invalid	invalid
+images/I21_01_02.png	4.0	gaussian blur	landscape	invalid	invalid
+images/I21_01_03.png	2.5	gaussian blur	landscape	invalid	invalid
+images/I21_01_04.png	1.6	gaussian blur	landscape	invalid	invalid
+images/I21_01_05.png	1.13	gaussian blur	landscape	invalid	invalid
+images/I21_02_01.png	3.2	lens	landscape	invalid	invalid
+images/I21_02_02.png	2.4	lens	landscape	invalid	invalid
+images/I21_02_03.png	1.33	lens	landscape	invalid	invalid
+images/I21_02_04.png	1.47	lens	landscape	invalid	invalid
+images/I21_02_05.png	1.27	lens	landscape	invalid	invalid
+images/I21_03_01.png	4.7	motion	landscape	invalid	invalid
+images/I21_03_02.png	3.6	motion	landscape	invalid	invalid
+images/I21_03_03.png	2.23	motion	landscape	invalid	invalid
+images/I21_03_04.png	1.9	motion	landscape	invalid	invalid
+images/I21_03_05.png	1.53	motion	landscape	invalid	invalid
+images/I21_04_01.png	4.43	diffusion	landscape	invalid	invalid
+images/I21_04_02.png	2.8	diffusion	landscape	invalid	invalid
+images/I21_04_03.png	1.9	diffusion	landscape	invalid	invalid
+images/I21_04_04.png	1.67	diffusion	landscape	invalid	invalid
+images/I21_04_05.png	1.27	diffusion	landscape	invalid	invalid
+images/I21_05_01.png	3.77	shifting	landscape	invalid	invalid
+images/I21_05_02.png	2.33	shifting	landscape	invalid	invalid
+images/I21_05_03.png	1.93	shifting	landscape	invalid	invalid
+images/I21_05_04.png	1.77	shifting	landscape	invalid	invalid
+images/I21_05_05.png	1.93	shifting	landscape	invalid	invalid
+images/I21_06_01.png	4.03	color quantization	landscape	invalid	invalid
+images/I21_06_02.png	4.23	color quantization	landscape	invalid	invalid
+images/I21_06_03.png	3.63	color quantization	landscape	invalid	invalid
+images/I21_06_04.png	3.43	color quantization	landscape	invalid	invalid
+images/I21_06_05.png	2.3	color quantization	landscape	invalid	invalid
+images/I21_07_01.png	2.7	oversaturation	landscape	invalid	invalid
+images/I21_07_02.png	2.43	oversaturation	landscape	invalid	invalid
+images/I21_07_03.png	2.57	oversaturation	landscape	invalid	invalid
+images/I21_07_04.png	2.07	oversaturation	landscape	invalid	invalid
+images/I21_07_05.png	2.07	oversaturation	landscape	invalid	invalid
+images/I21_08_01.png	4.37	desaturation	landscape	invalid	invalid
+images/I21_08_02.png	3.4	desaturation	landscape	invalid	invalid
+images/I21_08_03.png	3.1	desaturation	landscape	invalid	invalid
+images/I21_08_04.png	2.2	desaturation	landscape	invalid	invalid
+images/I21_08_05.png	1.43	desaturation	landscape	invalid	invalid
+images/I21_09_01.png	4.6	jpeg2000 compression	landscape	invalid	invalid
+images/I21_09_02.png	3.43	jpeg2000 compression	landscape	invalid	invalid
+images/I21_09_03.png	2.17	jpeg2000 compression	landscape	invalid	invalid
+images/I21_09_04.png	1.87	jpeg2000 compression	landscape	invalid	invalid
+images/I21_09_05.png	1.27	jpeg2000 compression	landscape	invalid	invalid
+images/I21_10_01.png	4.23	jpeg compression	landscape	invalid	invalid
+images/I21_10_02.png	3.9	jpeg compression	landscape	invalid	invalid
+images/I21_10_03.png	3.53	jpeg compression	landscape	invalid	invalid
+images/I21_10_04.png	1.93	jpeg compression	landscape	invalid	invalid
+images/I21_10_05.png	1.17	jpeg compression	landscape	invalid	invalid
+images/I21_11_01.png	3.53	white noise	landscape	invalid	invalid
+images/I21_11_02.png	3.33	white noise	landscape	invalid	invalid
+images/I21_11_03.png	2.87	white noise	landscape	invalid	invalid
+images/I21_11_04.png	2.3	white noise	landscape	invalid	invalid
+images/I21_11_05.png	2.2	white noise	landscape	invalid	invalid
+images/I21_12_01.png	4.03	white with color	landscape	invalid	invalid
+images/I21_12_02.png	3.47	white with color	landscape	invalid	invalid
+images/I21_12_03.png	2.9	white with color	landscape	invalid	invalid
+images/I21_12_04.png	2.63	white with color	landscape	invalid	invalid
+images/I21_12_05.png	2.13	white with color	landscape	invalid	invalid
+images/I21_13_01.png	3.03	impulse	landscape	invalid	invalid
+images/I21_13_02.png	2.73	impulse	landscape	invalid	invalid
+images/I21_13_03.png	2.53	impulse	landscape	invalid	invalid
+images/I21_13_04.png	1.93	impulse	landscape	invalid	invalid
+images/I21_13_05.png	1.87	impulse	landscape	invalid	invalid
+images/I21_14_01.png	4.47	multiplicative	landscape	invalid	invalid
+images/I21_14_02.png	3.52	multiplicative	landscape	invalid	invalid
+images/I21_14_03.png	3.07	multiplicative	landscape	invalid	invalid
+images/I21_14_04.png	2.73	multiplicative	landscape	invalid	invalid
+images/I21_14_05.png	2.27	multiplicative	landscape	invalid	invalid
+images/I21_15_01.png	3.4	white noise with denoise	landscape	invalid	invalid
+images/I21_15_02.png	2.1	white noise with denoise	landscape	invalid	invalid
+images/I21_15_03.png	1.87	white noise with denoise	landscape	invalid	invalid
+images/I21_15_04.png	1.4	white noise with denoise	landscape	invalid	invalid
+images/I21_15_05.png	1.33	white noise with denoise	landscape	invalid	invalid
+images/I21_16_01.png	4.6	brighten	landscape	invalid	invalid
+images/I21_16_02.png	4.3	brighten	landscape	invalid	invalid
+images/I21_16_03.png	3.67	brighten	landscape	invalid	invalid
+images/I21_16_04.png	3.13	brighten	landscape	invalid	invalid
+images/I21_16_05.png	2.17	brighten	landscape	invalid	invalid
+images/I21_17_01.png	4.6	darken	landscape	invalid	invalid
+images/I21_17_02.png	4.37	darken	landscape	invalid	invalid
+images/I21_17_03.png	4.0	darken	landscape	invalid	invalid
+images/I21_17_04.png	2.87	darken	landscape	invalid	invalid
+images/I21_17_05.png	1.63	darken	landscape	invalid	invalid
+images/I21_18_01.png	4.37	shifting the mean	landscape	invalid	invalid
+images/I21_18_02.png	4.7	shifting the mean	landscape	invalid	invalid
+images/I21_18_03.png	4.43	shifting the mean	landscape	invalid	invalid
+images/I21_18_04.png	4.03	shifting the mean	landscape	invalid	invalid
+images/I21_18_05.png	3.53	shifting the mean	landscape	invalid	invalid
+images/I21_19_01.png	4.3	jitter	landscape	invalid	invalid
+images/I21_19_02.png	3.77	jitter	landscape	invalid	invalid
+images/I21_19_03.png	2.77	jitter	landscape	invalid	invalid
+images/I21_19_04.png	1.67	jitter	landscape	invalid	invalid
+images/I21_19_05.png	1.07	jitter	landscape	invalid	invalid
+images/I21_20_01.png	4.53	noneccentricity patch	landscape	invalid	invalid
+images/I21_20_02.png	4.07	noneccentricity patch	landscape	invalid	invalid
+images/I21_20_03.png	3.47	noneccentricity patch	landscape	invalid	invalid
+images/I21_20_04.png	4.03	noneccentricity patch	landscape	invalid	invalid
+images/I21_20_05.png	3.17	noneccentricity patch	landscape	invalid	invalid
+images/I21_21_01.png	3.77	pixelate	landscape	invalid	invalid
+images/I21_21_02.png	3.03	pixelate	landscape	invalid	invalid
+images/I21_21_03.png	2.63	pixelate	landscape	invalid	invalid
+images/I21_21_04.png	2.2	pixelate	landscape	invalid	invalid
+images/I21_21_05.png	1.33	pixelate	landscape	invalid	invalid
+images/I21_22_01.png	3.57	quantization	landscape	invalid	invalid
+images/I21_22_02.png	2.83	quantization	landscape	invalid	invalid
+images/I21_22_03.png	2.93	quantization	landscape	invalid	invalid
+images/I21_22_04.png	2.53	quantization	landscape	invalid	invalid
+images/I21_22_05.png	2.07	quantization	landscape	invalid	invalid
+images/I21_23_01.png	2.77	color blocking	landscape	invalid	invalid
+images/I21_23_02.png	2.3	color blocking	landscape	invalid	invalid
+images/I21_23_03.png	2.13	color blocking	landscape	invalid	invalid
+images/I21_23_04.png	2.13	color blocking	landscape	invalid	invalid
+images/I21_23_05.png	1.7	color blocking	landscape	invalid	invalid
+images/I21_24_01.png	3.73	sharpness	landscape	invalid	invalid
+images/I21_24_02.png	2.33	sharpness	landscape	invalid	invalid
+images/I21_24_03.png	1.77	sharpness	landscape	invalid	invalid
+images/I21_24_04.png	1.39	sharpness	landscape	invalid	invalid
+images/I21_24_05.png	1.37	sharpness	landscape	invalid	invalid
+images/I21_25_01.png	3.5	contrast	landscape	invalid	invalid
+images/I21_25_02.png	3.77	contrast	landscape	invalid	invalid
+images/I21_25_03.png	3.97	contrast	landscape	invalid	invalid
+images/I21_25_04.png	3.87	contrast	landscape	invalid	invalid
+images/I21_25_05.png	3.2	contrast	landscape	invalid	invalid
+images/I10_01_01.png	4.73	gaussian blur	landscape	still_life	invalid
+images/I10_01_02.png	4.53	gaussian blur	landscape	still_life	invalid
+images/I10_01_03.png	2.8	gaussian blur	landscape	still_life	invalid
+images/I10_01_04.png	1.67	gaussian blur	landscape	still_life	invalid
+images/I10_01_05.png	1.23	gaussian blur	landscape	still_life	invalid
+images/I10_02_01.png	3.9	lens	landscape	still_life	invalid
+images/I10_02_02.png	2.57	lens	landscape	still_life	invalid
+images/I10_02_03.png	1.77	lens	landscape	still_life	invalid
+images/I10_02_04.png	1.27	lens	landscape	still_life	invalid
+images/I10_02_05.png	1.33	lens	landscape	still_life	invalid
+images/I10_03_01.png	4.67	motion	landscape	still_life	invalid
+images/I10_03_02.png	4.2	motion	landscape	still_life	invalid
+images/I10_03_03.png	2.9	motion	landscape	still_life	invalid
+images/I10_03_04.png	2.17	motion	landscape	still_life	invalid
+images/I10_03_05.png	1.4	motion	landscape	still_life	invalid
+images/I10_04_01.png	4.63	diffusion	landscape	still_life	invalid
+images/I10_04_02.png	2.93	diffusion	landscape	still_life	invalid
+images/I10_04_03.png	1.93	diffusion	landscape	still_life	invalid
+images/I10_04_04.png	1.53	diffusion	landscape	still_life	invalid
+images/I10_04_05.png	1.27	diffusion	landscape	still_life	invalid
+images/I10_05_01.png	4.63	shifting	landscape	still_life	invalid
+images/I10_05_02.png	2.5	shifting	landscape	still_life	invalid
+images/I10_05_03.png	1.73	shifting	landscape	still_life	invalid
+images/I10_05_04.png	1.63	shifting	landscape	still_life	invalid
+images/I10_05_05.png	1.83	shifting	landscape	still_life	invalid
+images/I10_06_01.png	3.63	color quantization	landscape	still_life	invalid
+images/I10_06_02.png	3.83	color quantization	landscape	still_life	invalid
+images/I10_06_03.png	3.8	color quantization	landscape	still_life	invalid
+images/I10_06_04.png	3.13	color quantization	landscape	still_life	invalid
+images/I10_06_05.png	2.03	color quantization	landscape	still_life	invalid
+images/I10_07_01.png	3.27	oversaturation	landscape	still_life	invalid
+images/I10_07_02.png	2.27	oversaturation	landscape	still_life	invalid
+images/I10_07_03.png	2.23	oversaturation	landscape	still_life	invalid
+images/I10_07_04.png	2.33	oversaturation	landscape	still_life	invalid
+images/I10_07_05.png	1.83	oversaturation	landscape	still_life	invalid
+images/I10_08_01.png	4.73	desaturation	landscape	still_life	invalid
+images/I10_08_02.png	3.03	desaturation	landscape	still_life	invalid
+images/I10_08_03.png	2.33	desaturation	landscape	still_life	invalid
+images/I10_08_04.png	1.63	desaturation	landscape	still_life	invalid
+images/I10_08_05.png	1.27	desaturation	landscape	still_life	invalid
+images/I10_09_01.png	4.7	jpeg2000 compression	landscape	still_life	invalid
+images/I10_09_02.png	4.47	jpeg2000 compression	landscape	still_life	invalid
+images/I10_09_03.png	4.03	jpeg2000 compression	landscape	still_life	invalid
+images/I10_09_04.png	1.97	jpeg2000 compression	landscape	still_life	invalid
+images/I10_09_05.png	1.13	jpeg2000 compression	landscape	still_life	invalid
+images/I10_10_01.png	4.07	jpeg compression	landscape	still_life	invalid
+images/I10_10_02.png	4.23	jpeg compression	landscape	still_life	invalid
+images/I10_10_03.png	3.4	jpeg compression	landscape	still_life	invalid
+images/I10_10_04.png	1.57	jpeg compression	landscape	still_life	invalid
+images/I10_10_05.png	1.17	jpeg compression	landscape	still_life	invalid
+images/I10_11_01.png	3.1	white noise	landscape	still_life	invalid
+images/I10_11_02.png	2.9	white noise	landscape	still_life	invalid
+images/I10_11_03.png	2.83	white noise	landscape	still_life	invalid
+images/I10_11_04.png	2.27	white noise	landscape	still_life	invalid
+images/I10_11_05.png	1.8	white noise	landscape	still_life	invalid
+images/I10_12_01.png	4.03	white with color	landscape	still_life	invalid
+images/I10_12_02.png	3.0	white with color	landscape	still_life	invalid
+images/I10_12_03.png	2.6	white with color	landscape	still_life	invalid
+images/I10_12_04.png	2.33	white with color	landscape	still_life	invalid
+images/I10_12_05.png	2.1	white with color	landscape	still_life	invalid
+images/I10_13_01.png	3.57	impulse	landscape	still_life	invalid
+images/I10_13_02.png	2.7	impulse	landscape	still_life	invalid
+images/I10_13_03.png	2.3	impulse	landscape	still_life	invalid
+images/I10_13_04.png	2.17	impulse	landscape	still_life	invalid
+images/I10_13_05.png	1.97	impulse	landscape	still_life	invalid
+images/I10_14_01.png	4.5	multiplicative	landscape	still_life	invalid
+images/I10_14_02.png	3.2	multiplicative	landscape	still_life	invalid
+images/I10_14_03.png	2.47	multiplicative	landscape	still_life	invalid
+images/I10_14_04.png	2.07	multiplicative	landscape	still_life	invalid
+images/I10_14_05.png	1.87	multiplicative	landscape	still_life	invalid
+images/I10_15_01.png	3.6	white noise with denoise	landscape	still_life	invalid
+images/I10_15_02.png	2.3	white noise with denoise	landscape	still_life	invalid
+images/I10_15_03.png	2.03	white noise with denoise	landscape	still_life	invalid
+images/I10_15_04.png	1.63	white noise with denoise	landscape	still_life	invalid
+images/I10_15_05.png	1.37	white noise with denoise	landscape	still_life	invalid
+images/I10_16_01.png	4.43	brighten	landscape	still_life	invalid
+images/I10_16_02.png	4.17	brighten	landscape	still_life	invalid
+images/I10_16_03.png	3.73	brighten	landscape	still_life	invalid
+images/I10_16_04.png	2.77	brighten	landscape	still_life	invalid
+images/I10_16_05.png	1.73	brighten	landscape	still_life	invalid
+images/I10_17_01.png	4.87	darken	landscape	still_life	invalid
+images/I10_17_02.png	4.3	darken	landscape	still_life	invalid
+images/I10_17_03.png	4.23	darken	landscape	still_life	invalid
+images/I10_17_04.png	3.41	darken	landscape	still_life	invalid
+images/I10_17_05.png	2.27	darken	landscape	still_life	invalid
+images/I10_18_01.png	4.33	shifting the mean	landscape	still_life	invalid
+images/I10_18_02.png	4.57	shifting the mean	landscape	still_life	invalid
+images/I10_18_03.png	4.73	shifting the mean	landscape	still_life	invalid
+images/I10_18_04.png	4.57	shifting the mean	landscape	still_life	invalid
+images/I10_18_05.png	3.8	shifting the mean	landscape	still_life	invalid
+images/I10_19_01.png	4.63	jitter	landscape	still_life	invalid
+images/I10_19_02.png	4.23	jitter	landscape	still_life	invalid
+images/I10_19_03.png	3.43	jitter	landscape	still_life	invalid
+images/I10_19_04.png	1.63	jitter	landscape	still_life	invalid
+images/I10_19_05.png	1.2	jitter	landscape	still_life	invalid
+images/I10_20_01.png	4.57	noneccentricity patch	landscape	still_life	invalid
+images/I10_20_02.png	4.47	noneccentricity patch	landscape	still_life	invalid
+images/I10_20_03.png	4.43	noneccentricity patch	landscape	still_life	invalid
+images/I10_20_04.png	4.23	noneccentricity patch	landscape	still_life	invalid
+images/I10_20_05.png	3.97	noneccentricity patch	landscape	still_life	invalid
+images/I10_21_01.png	3.27	pixelate	landscape	still_life	invalid
+images/I10_21_02.png	2.4	pixelate	landscape	still_life	invalid
+images/I10_21_03.png	2.43	pixelate	landscape	still_life	invalid
+images/I10_21_04.png	2.27	pixelate	landscape	still_life	invalid
+images/I10_21_05.png	1.23	pixelate	landscape	still_life	invalid
+images/I10_22_01.png	3.81	quantization	landscape	still_life	invalid
+images/I10_22_02.png	3.87	quantization	landscape	still_life	invalid
+images/I10_22_03.png	2.97	quantization	landscape	still_life	invalid
+images/I10_22_04.png	3.03	quantization	landscape	still_life	invalid
+images/I10_22_05.png	2.1	quantization	landscape	still_life	invalid
+images/I10_23_01.png	2.93	color blocking	landscape	still_life	invalid
+images/I10_23_02.png	2.03	color blocking	landscape	still_life	invalid
+images/I10_23_03.png	2.57	color blocking	landscape	still_life	invalid
+images/I10_23_04.png	1.97	color blocking	landscape	still_life	invalid
+images/I10_23_05.png	2.23	color blocking	landscape	still_life	invalid
+images/I10_24_01.png	3.67	sharpness	landscape	still_life	invalid
+images/I10_24_02.png	2.63	sharpness	landscape	still_life	invalid
+images/I10_24_03.png	2.17	sharpness	landscape	still_life	invalid
+images/I10_24_04.png	1.5	sharpness	landscape	still_life	invalid
+images/I10_24_05.png	1.3	sharpness	landscape	still_life	invalid
+images/I10_25_01.png	3.23	contrast	landscape	still_life	invalid
+images/I10_25_02.png	3.6	contrast	landscape	still_life	invalid
+images/I10_25_03.png	4.37	contrast	landscape	still_life	invalid
+images/I10_25_04.png	4.33	contrast	landscape	still_life	invalid
+images/I10_25_05.png	3.83	contrast	landscape	still_life	invalid
+images/I16_01_01.png	4.7	gaussian blur	landscape	invalid	invalid
+images/I16_01_02.png	4.3	gaussian blur	landscape	invalid	invalid
+images/I16_01_03.png	2.0	gaussian blur	landscape	invalid	invalid
+images/I16_01_04.png	1.4	gaussian blur	landscape	invalid	invalid
+images/I16_01_05.png	1.13	gaussian blur	landscape	invalid	invalid
+images/I16_02_01.png	3.4	lens	landscape	invalid	invalid
+images/I16_02_02.png	1.93	lens	landscape	invalid	invalid
+images/I16_02_03.png	1.33	lens	landscape	invalid	invalid
+images/I16_02_04.png	1.17	lens	landscape	invalid	invalid
+images/I16_02_05.png	1.33	lens	landscape	invalid	invalid
+images/I16_03_01.png	4.47	motion	landscape	invalid	invalid
+images/I16_03_02.png	3.47	motion	landscape	invalid	invalid
+images/I16_03_03.png	2.03	motion	landscape	invalid	invalid
+images/I16_03_04.png	1.63	motion	landscape	invalid	invalid
+images/I16_03_05.png	1.17	motion	landscape	invalid	invalid
+images/I16_04_01.png	4.4	diffusion	landscape	invalid	invalid
+images/I16_04_02.png	1.9	diffusion	landscape	invalid	invalid
+images/I16_04_03.png	1.2	diffusion	landscape	invalid	invalid
+images/I16_04_04.png	1.2	diffusion	landscape	invalid	invalid
+images/I16_04_05.png	1.07	diffusion	landscape	invalid	invalid
+images/I16_05_01.png	3.07	shifting	landscape	invalid	invalid
+images/I16_05_02.png	1.58	shifting	landscape	invalid	invalid
+images/I16_05_03.png	1.23	shifting	landscape	invalid	invalid
+images/I16_05_04.png	1.17	shifting	landscape	invalid	invalid
+images/I16_05_05.png	1.43	shifting	landscape	invalid	invalid
+images/I16_06_01.png	4.0	color quantization	landscape	invalid	invalid
+images/I16_06_02.png	4.13	color quantization	landscape	invalid	invalid
+images/I16_06_03.png	3.97	color quantization	landscape	invalid	invalid
+images/I16_06_04.png	3.3	color quantization	landscape	invalid	invalid
+images/I16_06_05.png	2.16	color quantization	landscape	invalid	invalid
+images/I16_07_01.png	3.07	oversaturation	landscape	invalid	invalid
+images/I16_07_02.png	2.13	oversaturation	landscape	invalid	invalid
+images/I16_07_03.png	2.33	oversaturation	landscape	invalid	invalid
+images/I16_07_04.png	2.07	oversaturation	landscape	invalid	invalid
+images/I16_07_05.png	2.03	oversaturation	landscape	invalid	invalid
+images/I16_08_01.png	4.7	desaturation	landscape	invalid	invalid
+images/I16_08_02.png	2.9	desaturation	landscape	invalid	invalid
+images/I16_08_03.png	2.07	desaturation	landscape	invalid	invalid
+images/I16_08_04.png	1.23	desaturation	landscape	invalid	invalid
+images/I16_08_05.png	1.07	desaturation	landscape	invalid	invalid
+images/I16_09_01.png	4.63	jpeg2000 compression	landscape	invalid	invalid
+images/I16_09_02.png	4.23	jpeg2000 compression	landscape	invalid	invalid
+images/I16_09_03.png	4.0	jpeg2000 compression	landscape	invalid	invalid
+images/I16_09_04.png	1.61	jpeg2000 compression	landscape	invalid	invalid
+images/I16_09_05.png	1.17	jpeg2000 compression	landscape	invalid	invalid
+images/I16_10_01.png	4.0	jpeg compression	landscape	invalid	invalid
+images/I16_10_02.png	4.23	jpeg compression	landscape	invalid	invalid
+images/I16_10_03.png	3.9	jpeg compression	landscape	invalid	invalid
+images/I16_10_04.png	2.03	jpeg compression	landscape	invalid	invalid
+images/I16_10_05.png	1.4	jpeg compression	landscape	invalid	invalid
+images/I16_11_01.png	4.03	white noise	landscape	invalid	invalid
+images/I16_11_02.png	3.17	white noise	landscape	invalid	invalid
+images/I16_11_03.png	2.9	white noise	landscape	invalid	invalid
+images/I16_11_04.png	2.19	white noise	landscape	invalid	invalid
+images/I16_11_05.png	2.07	white noise	landscape	invalid	invalid
+images/I16_12_01.png	4.5	white with color	landscape	invalid	invalid
+images/I16_12_02.png	3.3	white with color	landscape	invalid	invalid
+images/I16_12_03.png	3.13	white with color	landscape	invalid	invalid
+images/I16_12_04.png	2.37	white with color	landscape	invalid	invalid
+images/I16_12_05.png	2.47	white with color	landscape	invalid	invalid
+images/I16_13_01.png	3.57	impulse	landscape	invalid	invalid
+images/I16_13_02.png	2.73	impulse	landscape	invalid	invalid
+images/I16_13_03.png	2.43	impulse	landscape	invalid	invalid
+images/I16_13_04.png	2.07	impulse	landscape	invalid	invalid
+images/I16_13_05.png	1.77	impulse	landscape	invalid	invalid
+images/I16_14_01.png	4.2	multiplicative	landscape	invalid	invalid
+images/I16_14_02.png	3.17	multiplicative	landscape	invalid	invalid
+images/I16_14_03.png	3.23	multiplicative	landscape	invalid	invalid
+images/I16_14_04.png	2.27	multiplicative	landscape	invalid	invalid
+images/I16_14_05.png	1.9	multiplicative	landscape	invalid	invalid
+images/I16_15_01.png	3.37	white noise with denoise	landscape	invalid	invalid
+images/I16_15_02.png	2.4	white noise with denoise	landscape	invalid	invalid
+images/I16_15_03.png	2.03	white noise with denoise	landscape	invalid	invalid
+images/I16_15_04.png	1.23	white noise with denoise	landscape	invalid	invalid
+images/I16_15_05.png	1.27	white noise with denoise	landscape	invalid	invalid
+images/I16_16_01.png	4.37	brighten	landscape	invalid	invalid
+images/I16_16_02.png	4.37	brighten	landscape	invalid	invalid
+images/I16_16_03.png	3.87	brighten	landscape	invalid	invalid
+images/I16_16_04.png	2.73	brighten	landscape	invalid	invalid
+images/I16_16_05.png	2.0	brighten	landscape	invalid	invalid
+images/I16_17_01.png	4.63	darken	landscape	invalid	invalid
+images/I16_17_02.png	4.57	darken	landscape	invalid	invalid
+images/I16_17_03.png	4.27	darken	landscape	invalid	invalid
+images/I16_17_04.png	3.67	darken	landscape	invalid	invalid
+images/I16_17_05.png	1.9	darken	landscape	invalid	invalid
+images/I16_18_01.png	4.47	shifting the mean	landscape	invalid	invalid
+images/I16_18_02.png	4.6	shifting the mean	landscape	invalid	invalid
+images/I16_18_03.png	4.43	shifting the mean	landscape	invalid	invalid
+images/I16_18_04.png	4.13	shifting the mean	landscape	invalid	invalid
+images/I16_18_05.png	3.93	shifting the mean	landscape	invalid	invalid
+images/I16_19_01.png	4.13	jitter	landscape	invalid	invalid
+images/I16_19_02.png	3.6	jitter	landscape	invalid	invalid
+images/I16_19_03.png	3.43	jitter	landscape	invalid	invalid
+images/I16_19_04.png	1.57	jitter	landscape	invalid	invalid
+images/I16_19_05.png	1.17	jitter	landscape	invalid	invalid
+images/I16_20_01.png	4.39	noneccentricity patch	landscape	invalid	invalid
+images/I16_20_02.png	4.2	noneccentricity patch	landscape	invalid	invalid
+images/I16_20_03.png	4.43	noneccentricity patch	landscape	invalid	invalid
+images/I16_20_04.png	3.93	noneccentricity patch	landscape	invalid	invalid
+images/I16_20_05.png	3.7	noneccentricity patch	landscape	invalid	invalid
+images/I16_21_01.png	4.1	pixelate	landscape	invalid	invalid
+images/I16_21_02.png	3.3	pixelate	landscape	invalid	invalid
+images/I16_21_03.png	3.33	pixelate	landscape	invalid	invalid
+images/I16_21_04.png	3.53	pixelate	landscape	invalid	invalid
+images/I16_21_05.png	1.27	pixelate	landscape	invalid	invalid
+images/I16_22_01.png	4.03	quantization	landscape	invalid	invalid
+images/I16_22_02.png	3.53	quantization	landscape	invalid	invalid
+images/I16_22_03.png	2.9	quantization	landscape	invalid	invalid
+images/I16_22_04.png	3.23	quantization	landscape	invalid	invalid
+images/I16_22_05.png	2.53	quantization	landscape	invalid	invalid
+images/I16_23_01.png	2.13	color blocking	landscape	invalid	invalid
+images/I16_23_02.png	2.47	color blocking	landscape	invalid	invalid
+images/I16_23_03.png	2.07	color blocking	landscape	invalid	invalid
+images/I16_23_04.png	1.87	color blocking	landscape	invalid	invalid
+images/I16_23_05.png	2.03	color blocking	landscape	invalid	invalid
+images/I16_24_01.png	3.43	sharpness	landscape	invalid	invalid
+images/I16_24_02.png	2.37	sharpness	landscape	invalid	invalid
+images/I16_24_03.png	1.93	sharpness	landscape	invalid	invalid
+images/I16_24_04.png	1.43	sharpness	landscape	invalid	invalid
+images/I16_24_05.png	1.2	sharpness	landscape	invalid	invalid
+images/I16_25_01.png	3.43	contrast	landscape	invalid	invalid
+images/I16_25_02.png	3.5	contrast	landscape	invalid	invalid
+images/I16_25_03.png	4.16	contrast	landscape	invalid	invalid
+images/I16_25_04.png	4.17	contrast	landscape	invalid	invalid
+images/I16_25_05.png	3.7	contrast	landscape	invalid	invalid
+images/I63_01_01.png	4.67	gaussian blur	still_life	invalid	invalid
+images/I63_01_02.png	4.43	gaussian blur	still_life	invalid	invalid
+images/I63_01_03.png	2.6	gaussian blur	still_life	invalid	invalid
+images/I63_01_04.png	1.87	gaussian blur	still_life	invalid	invalid
+images/I63_01_05.png	1.3	gaussian blur	still_life	invalid	invalid
+images/I63_02_01.png	3.47	lens	still_life	invalid	invalid
+images/I63_02_02.png	2.47	lens	still_life	invalid	invalid
+images/I63_02_03.png	1.57	lens	still_life	invalid	invalid
+images/I63_02_04.png	1.27	lens	still_life	invalid	invalid
+images/I63_02_05.png	1.3	lens	still_life	invalid	invalid
+images/I63_03_01.png	4.5	motion	still_life	invalid	invalid
+images/I63_03_02.png	3.83	motion	still_life	invalid	invalid
+images/I63_03_03.png	2.77	motion	still_life	invalid	invalid
+images/I63_03_04.png	1.83	motion	still_life	invalid	invalid
+images/I63_03_05.png	1.5	motion	still_life	invalid	invalid
+images/I63_04_01.png	4.33	diffusion	still_life	invalid	invalid
+images/I63_04_02.png	2.8	diffusion	still_life	invalid	invalid
+images/I63_04_03.png	1.63	diffusion	still_life	invalid	invalid
+images/I63_04_04.png	1.33	diffusion	still_life	invalid	invalid
+images/I63_04_05.png	1.2	diffusion	still_life	invalid	invalid
+images/I63_05_01.png	3.77	shifting	still_life	invalid	invalid
+images/I63_05_02.png	2.33	shifting	still_life	invalid	invalid
+images/I63_05_03.png	1.8	shifting	still_life	invalid	invalid
+images/I63_05_04.png	1.53	shifting	still_life	invalid	invalid
+images/I63_05_05.png	1.53	shifting	still_life	invalid	invalid
+images/I63_06_01.png	3.63	color quantization	still_life	invalid	invalid
+images/I63_06_02.png	3.48	color quantization	still_life	invalid	invalid
+images/I63_06_03.png	3.53	color quantization	still_life	invalid	invalid
+images/I63_06_04.png	2.83	color quantization	still_life	invalid	invalid
+images/I63_06_05.png	1.67	color quantization	still_life	invalid	invalid
+images/I63_07_01.png	2.9	oversaturation	still_life	invalid	invalid
+images/I63_07_02.png	2.7	oversaturation	still_life	invalid	invalid
+images/I63_07_03.png	2.57	oversaturation	still_life	invalid	invalid
+images/I63_07_04.png	2.43	oversaturation	still_life	invalid	invalid
+images/I63_07_05.png	2.4	oversaturation	still_life	invalid	invalid
+images/I63_08_01.png	4.33	desaturation	still_life	invalid	invalid
+images/I63_08_02.png	3.7	desaturation	still_life	invalid	invalid
+images/I63_08_03.png	2.17	desaturation	still_life	invalid	invalid
+images/I63_08_04.png	1.4	desaturation	still_life	invalid	invalid
+images/I63_08_05.png	1.57	desaturation	still_life	invalid	invalid
+images/I63_09_01.png	4.57	jpeg2000 compression	still_life	invalid	invalid
+images/I63_09_02.png	3.93	jpeg2000 compression	still_life	invalid	invalid
+images/I63_09_03.png	3.43	jpeg2000 compression	still_life	invalid	invalid
+images/I63_09_04.png	2.0	jpeg2000 compression	still_life	invalid	invalid
+images/I63_09_05.png	1.2	jpeg2000 compression	still_life	invalid	invalid
+images/I63_10_01.png	4.07	jpeg compression	still_life	invalid	invalid
+images/I63_10_02.png	4.3	jpeg compression	still_life	invalid	invalid
+images/I63_10_03.png	3.9	jpeg compression	still_life	invalid	invalid
+images/I63_10_04.png	2.33	jpeg compression	still_life	invalid	invalid
+images/I63_10_05.png	1.7	jpeg compression	still_life	invalid	invalid
+images/I63_11_01.png	3.93	white noise	still_life	invalid	invalid
+images/I63_11_02.png	3.93	white noise	still_life	invalid	invalid
+images/I63_11_03.png	3.3	white noise	still_life	invalid	invalid
+images/I63_11_04.png	3.07	white noise	still_life	invalid	invalid
+images/I63_11_05.png	2.5	white noise	still_life	invalid	invalid
+images/I63_12_01.png	4.6	white with color	still_life	invalid	invalid
+images/I63_12_02.png	3.77	white with color	still_life	invalid	invalid
+images/I63_12_03.png	3.57	white with color	still_life	invalid	invalid
+images/I63_12_04.png	2.87	white with color	still_life	invalid	invalid
+images/I63_12_05.png	2.47	white with color	still_life	invalid	invalid
+images/I63_13_01.png	3.97	impulse	still_life	invalid	invalid
+images/I63_13_02.png	3.1	impulse	still_life	invalid	invalid
+images/I63_13_03.png	2.45	impulse	still_life	invalid	invalid
+images/I63_13_04.png	2.57	impulse	still_life	invalid	invalid
+images/I63_13_05.png	2.4	impulse	still_life	invalid	invalid
+images/I63_14_01.png	4.61	multiplicative	still_life	invalid	invalid
+images/I63_14_02.png	3.83	multiplicative	still_life	invalid	invalid
+images/I63_14_03.png	3.43	multiplicative	still_life	invalid	invalid
+images/I63_14_04.png	2.83	multiplicative	still_life	invalid	invalid
+images/I63_14_05.png	2.33	multiplicative	still_life	invalid	invalid
+images/I63_15_01.png	3.93	white noise with denoise	still_life	invalid	invalid
+images/I63_15_02.png	3.17	white noise with denoise	still_life	invalid	invalid
+images/I63_15_03.png	2.63	white noise with denoise	still_life	invalid	invalid
+images/I63_15_04.png	1.67	white noise with denoise	still_life	invalid	invalid
+images/I63_15_05.png	1.37	white noise with denoise	still_life	invalid	invalid
+images/I63_16_01.png	4.53	brighten	still_life	invalid	invalid
+images/I63_16_02.png	4.2	brighten	still_life	invalid	invalid
+images/I63_16_03.png	3.77	brighten	still_life	invalid	invalid
+images/I63_16_04.png	3.1	brighten	still_life	invalid	invalid
+images/I63_16_05.png	2.43	brighten	still_life	invalid	invalid
+images/I63_17_01.png	4.6	darken	still_life	invalid	invalid
+images/I63_17_02.png	4.57	darken	still_life	invalid	invalid
+images/I63_17_03.png	4.27	darken	still_life	invalid	invalid
+images/I63_17_04.png	3.3	darken	still_life	invalid	invalid
+images/I63_17_05.png	1.83	darken	still_life	invalid	invalid
+images/I63_18_01.png	4.43	shifting the mean	still_life	invalid	invalid
+images/I63_18_02.png	4.67	shifting the mean	still_life	invalid	invalid
+images/I63_18_03.png	4.53	shifting the mean	still_life	invalid	invalid
+images/I63_18_04.png	4.4	shifting the mean	still_life	invalid	invalid
+images/I63_18_05.png	3.53	shifting the mean	still_life	invalid	invalid
+images/I63_19_01.png	4.37	jitter	still_life	invalid	invalid
+images/I63_19_02.png	3.9	jitter	still_life	invalid	invalid
+images/I63_19_03.png	2.77	jitter	still_life	invalid	invalid
+images/I63_19_04.png	1.37	jitter	still_life	invalid	invalid
+images/I63_19_05.png	1.13	jitter	still_life	invalid	invalid
+images/I63_20_01.png	4.67	noneccentricity patch	still_life	invalid	invalid
+images/I63_20_02.png	4.47	noneccentricity patch	still_life	invalid	invalid
+images/I63_20_03.png	4.0	noneccentricity patch	still_life	invalid	invalid
+images/I63_20_04.png	3.03	noneccentricity patch	still_life	invalid	invalid
+images/I63_20_05.png	3.9	noneccentricity patch	still_life	invalid	invalid
+images/I63_21_01.png	3.93	pixelate	still_life	invalid	invalid
+images/I63_21_02.png	2.77	pixelate	still_life	invalid	invalid
+images/I63_21_03.png	2.6	pixelate	still_life	invalid	invalid
+images/I63_21_04.png	2.5	pixelate	still_life	invalid	invalid
+images/I63_21_05.png	1.3	pixelate	still_life	invalid	invalid
+images/I63_22_01.png	4.67	quantization	still_life	invalid	invalid
+images/I63_22_02.png	4.47	quantization	still_life	invalid	invalid
+images/I63_22_03.png	4.3	quantization	still_life	invalid	invalid
+images/I63_22_04.png	3.83	quantization	still_life	invalid	invalid
+images/I63_22_05.png	3.23	quantization	still_life	invalid	invalid
+images/I63_23_01.png	3.6	color blocking	still_life	invalid	invalid
+images/I63_23_02.png	2.5	color blocking	still_life	invalid	invalid
+images/I63_23_03.png	2.1	color blocking	still_life	invalid	invalid
+images/I63_23_04.png	2.4	color blocking	still_life	invalid	invalid
+images/I63_23_05.png	1.97	color blocking	still_life	invalid	invalid
+images/I63_24_01.png	3.37	sharpness	still_life	invalid	invalid
+images/I63_24_02.png	2.67	sharpness	still_life	invalid	invalid
+images/I63_24_03.png	2.23	sharpness	still_life	invalid	invalid
+images/I63_24_04.png	1.33	sharpness	still_life	invalid	invalid
+images/I63_24_05.png	1.5	sharpness	still_life	invalid	invalid
+images/I63_25_01.png	3.3	contrast	still_life	invalid	invalid
+images/I63_25_02.png	3.7	contrast	still_life	invalid	invalid
+images/I63_25_03.png	4.23	contrast	still_life	invalid	invalid
+images/I63_25_04.png	3.97	contrast	still_life	invalid	invalid
+images/I63_25_05.png	3.59	contrast	still_life	invalid	invalid
+images/I61_01_01.png	4.47	gaussian blur	still_life	invalid	invalid
+images/I61_01_02.png	4.63	gaussian blur	still_life	invalid	invalid
+images/I61_01_03.png	2.73	gaussian blur	still_life	invalid	invalid
+images/I61_01_04.png	1.97	gaussian blur	still_life	invalid	invalid
+images/I61_01_05.png	1.13	gaussian blur	still_life	invalid	invalid
+images/I61_02_01.png	3.67	lens	still_life	invalid	invalid
+images/I61_02_02.png	2.87	lens	still_life	invalid	invalid
+images/I61_02_03.png	1.67	lens	still_life	invalid	invalid
+images/I61_02_04.png	1.27	lens	still_life	invalid	invalid
+images/I61_02_05.png	1.3	lens	still_life	invalid	invalid
+images/I61_03_01.png	4.43	motion	still_life	invalid	invalid
+images/I61_03_02.png	4.03	motion	still_life	invalid	invalid
+images/I61_03_03.png	2.37	motion	still_life	invalid	invalid
+images/I61_03_04.png	2.0	motion	still_life	invalid	invalid
+images/I61_03_05.png	1.45	motion	still_life	invalid	invalid
+images/I61_04_01.png	4.27	diffusion	still_life	invalid	invalid
+images/I61_04_02.png	2.7	diffusion	still_life	invalid	invalid
+images/I61_04_03.png	1.73	diffusion	still_life	invalid	invalid
+images/I61_04_04.png	1.5	diffusion	still_life	invalid	invalid
+images/I61_04_05.png	1.23	diffusion	still_life	invalid	invalid
+images/I61_05_01.png	4.47	shifting	still_life	invalid	invalid
+images/I61_05_02.png	2.17	shifting	still_life	invalid	invalid
+images/I61_05_03.png	1.77	shifting	still_life	invalid	invalid
+images/I61_05_04.png	1.83	shifting	still_life	invalid	invalid
+images/I61_05_05.png	1.63	shifting	still_life	invalid	invalid
+images/I61_06_01.png	4.6	color quantization	still_life	invalid	invalid
+images/I61_06_02.png	4.17	color quantization	still_life	invalid	invalid
+images/I61_06_03.png	4.33	color quantization	still_life	invalid	invalid
+images/I61_06_04.png	3.73	color quantization	still_life	invalid	invalid
+images/I61_06_05.png	2.4	color quantization	still_life	invalid	invalid
+images/I61_07_01.png	2.9	oversaturation	still_life	invalid	invalid
+images/I61_07_02.png	2.47	oversaturation	still_life	invalid	invalid
+images/I61_07_03.png	2.33	oversaturation	still_life	invalid	invalid
+images/I61_07_04.png	2.8	oversaturation	still_life	invalid	invalid
+images/I61_07_05.png	1.87	oversaturation	still_life	invalid	invalid
+images/I61_08_01.png	4.6	desaturation	still_life	invalid	invalid
+images/I61_08_02.png	3.57	desaturation	still_life	invalid	invalid
+images/I61_08_03.png	3.1	desaturation	still_life	invalid	invalid
+images/I61_08_04.png	2.1	desaturation	still_life	invalid	invalid
+images/I61_08_05.png	1.7	desaturation	still_life	invalid	invalid
+images/I61_09_01.png	4.67	jpeg2000 compression	still_life	invalid	invalid
+images/I61_09_02.png	3.4	jpeg2000 compression	still_life	invalid	invalid
+images/I61_09_03.png	3.4	jpeg2000 compression	still_life	invalid	invalid
+images/I61_09_04.png	1.6	jpeg2000 compression	still_life	invalid	invalid
+images/I61_09_05.png	1.23	jpeg2000 compression	still_life	invalid	invalid
+images/I61_10_01.png	4.27	jpeg compression	still_life	invalid	invalid
+images/I61_10_02.png	4.1	jpeg compression	still_life	invalid	invalid
+images/I61_10_03.png	3.63	jpeg compression	still_life	invalid	invalid
+images/I61_10_04.png	1.93	jpeg compression	still_life	invalid	invalid
+images/I61_10_05.png	1.47	jpeg compression	still_life	invalid	invalid
+images/I61_11_01.png	4.17	white noise	still_life	invalid	invalid
+images/I61_11_02.png	3.3	white noise	still_life	invalid	invalid
+images/I61_11_03.png	2.9	white noise	still_life	invalid	invalid
+images/I61_11_04.png	2.6	white noise	still_life	invalid	invalid
+images/I61_11_05.png	2.37	white noise	still_life	invalid	invalid
+images/I61_12_01.png	4.63	white with color	still_life	invalid	invalid
+images/I61_12_02.png	3.83	white with color	still_life	invalid	invalid
+images/I61_12_03.png	3.23	white with color	still_life	invalid	invalid
+images/I61_12_04.png	2.8	white with color	still_life	invalid	invalid
+images/I61_12_05.png	2.63	white with color	still_life	invalid	invalid
+images/I61_13_01.png	3.87	impulse	still_life	invalid	invalid
+images/I61_13_02.png	2.83	impulse	still_life	invalid	invalid
+images/I61_13_03.png	2.73	impulse	still_life	invalid	invalid
+images/I61_13_04.png	2.47	impulse	still_life	invalid	invalid
+images/I61_13_05.png	2.1	impulse	still_life	invalid	invalid
+images/I61_14_01.png	4.47	multiplicative	still_life	invalid	invalid
+images/I61_14_02.png	3.32	multiplicative	still_life	invalid	invalid
+images/I61_14_03.png	2.67	multiplicative	still_life	invalid	invalid
+images/I61_14_04.png	2.43	multiplicative	still_life	invalid	invalid
+images/I61_14_05.png	2.3	multiplicative	still_life	invalid	invalid
+images/I61_15_01.png	3.6	white noise with denoise	still_life	invalid	invalid
+images/I61_15_02.png	3.2	white noise with denoise	still_life	invalid	invalid
+images/I61_15_03.png	2.67	white noise with denoise	still_life	invalid	invalid
+images/I61_15_04.png	1.8	white noise with denoise	still_life	invalid	invalid
+images/I61_15_05.png	1.53	white noise with denoise	still_life	invalid	invalid
+images/I61_16_01.png	4.67	brighten	still_life	invalid	invalid
+images/I61_16_02.png	4.3	brighten	still_life	invalid	invalid
+images/I61_16_03.png	3.57	brighten	still_life	invalid	invalid
+images/I61_16_04.png	3.0	brighten	still_life	invalid	invalid
+images/I61_16_05.png	1.9	brighten	still_life	invalid	invalid
+images/I61_17_01.png	4.53	darken	still_life	invalid	invalid
+images/I61_17_02.png	4.5	darken	still_life	invalid	invalid
+images/I61_17_03.png	4.1	darken	still_life	invalid	invalid
+images/I61_17_04.png	2.83	darken	still_life	invalid	invalid
+images/I61_17_05.png	1.93	darken	still_life	invalid	invalid
+images/I61_18_01.png	4.1	shifting the mean	still_life	invalid	invalid
+images/I61_18_02.png	4.43	shifting the mean	still_life	invalid	invalid
+images/I61_18_03.png	4.7	shifting the mean	still_life	invalid	invalid
+images/I61_18_04.png	4.1	shifting the mean	still_life	invalid	invalid
+images/I61_18_05.png	3.63	shifting the mean	still_life	invalid	invalid
+images/I61_19_01.png	4.48	jitter	still_life	invalid	invalid
+images/I61_19_02.png	3.5	jitter	still_life	invalid	invalid
+images/I61_19_03.png	2.5	jitter	still_life	invalid	invalid
+images/I61_19_04.png	1.57	jitter	still_life	invalid	invalid
+images/I61_19_05.png	1.03	jitter	still_life	invalid	invalid
+images/I61_20_01.png	4.47	noneccentricity patch	still_life	invalid	invalid
+images/I61_20_02.png	4.57	noneccentricity patch	still_life	invalid	invalid
+images/I61_20_03.png	4.43	noneccentricity patch	still_life	invalid	invalid
+images/I61_20_04.png	4.03	noneccentricity patch	still_life	invalid	invalid
+images/I61_20_05.png	4.33	noneccentricity patch	still_life	invalid	invalid
+images/I61_21_01.png	4.0	pixelate	still_life	invalid	invalid
+images/I61_21_02.png	3.27	pixelate	still_life	invalid	invalid
+images/I61_21_03.png	2.63	pixelate	still_life	invalid	invalid
+images/I61_21_04.png	2.27	pixelate	still_life	invalid	invalid
+images/I61_21_05.png	1.13	pixelate	still_life	invalid	invalid
+images/I61_22_01.png	4.27	quantization	still_life	invalid	invalid
+images/I61_22_02.png	4.23	quantization	still_life	invalid	invalid
+images/I61_22_03.png	4.0	quantization	still_life	invalid	invalid
+images/I61_22_04.png	3.1	quantization	still_life	invalid	invalid
+images/I61_22_05.png	2.7	quantization	still_life	invalid	invalid
+images/I61_23_01.png	2.9	color blocking	still_life	invalid	invalid
+images/I61_23_02.png	2.2	color blocking	still_life	invalid	invalid
+images/I61_23_03.png	2.53	color blocking	still_life	invalid	invalid
+images/I61_23_04.png	2.23	color blocking	still_life	invalid	invalid
+images/I61_23_05.png	2.23	color blocking	still_life	invalid	invalid
+images/I61_24_01.png	3.3	sharpness	still_life	invalid	invalid
+images/I61_24_02.png	2.3	sharpness	still_life	invalid	invalid
+images/I61_24_03.png	1.67	sharpness	still_life	invalid	invalid
+images/I61_24_04.png	1.53	sharpness	still_life	invalid	invalid
+images/I61_24_05.png	1.27	sharpness	still_life	invalid	invalid
+images/I61_25_01.png	2.67	contrast	still_life	invalid	invalid
+images/I61_25_02.png	3.67	contrast	still_life	invalid	invalid
+images/I61_25_03.png	4.17	contrast	still_life	invalid	invalid
+images/I61_25_04.png	4.33	contrast	still_life	invalid	invalid
+images/I61_25_05.png	3.53	contrast	still_life	invalid	invalid
+images/I64_01_01.png	4.67	gaussian blur	human	still_life	invalid
+images/I64_01_02.png	4.4	gaussian blur	human	still_life	invalid
+images/I64_01_03.png	3.23	gaussian blur	human	still_life	invalid
+images/I64_01_04.png	1.83	gaussian blur	human	still_life	invalid
+images/I64_01_05.png	1.23	gaussian blur	human	still_life	invalid
+images/I64_02_01.png	4.13	lens	human	still_life	invalid
+images/I64_02_02.png	2.5	lens	human	still_life	invalid
+images/I64_02_03.png	1.55	lens	human	still_life	invalid
+images/I64_02_04.png	1.53	lens	human	still_life	invalid
+images/I64_02_05.png	1.43	lens	human	still_life	invalid
+images/I64_03_01.png	4.67	motion	human	still_life	invalid
+images/I64_03_02.png	4.07	motion	human	still_life	invalid
+images/I64_03_03.png	2.9	motion	human	still_life	invalid
+images/I64_03_04.png	2.17	motion	human	still_life	invalid
+images/I64_03_05.png	1.77	motion	human	still_life	invalid
+images/I64_04_01.png	4.32	diffusion	human	still_life	invalid
+images/I64_04_02.png	3.37	diffusion	human	still_life	invalid
+images/I64_04_03.png	2.07	diffusion	human	still_life	invalid
+images/I64_04_04.png	1.63	diffusion	human	still_life	invalid
+images/I64_04_05.png	1.4	diffusion	human	still_life	invalid
+images/I64_05_01.png	4.5	shifting	human	still_life	invalid
+images/I64_05_02.png	2.4	shifting	human	still_life	invalid
+images/I64_05_03.png	1.57	shifting	human	still_life	invalid
+images/I64_05_04.png	1.6	shifting	human	still_life	invalid
+images/I64_05_05.png	1.53	shifting	human	still_life	invalid
+images/I64_06_01.png	3.8	color quantization	human	still_life	invalid
+images/I64_06_02.png	3.97	color quantization	human	still_life	invalid
+images/I64_06_03.png	3.65	color quantization	human	still_life	invalid
+images/I64_06_04.png	3.2	color quantization	human	still_life	invalid
+images/I64_06_05.png	2.67	color quantization	human	still_life	invalid
+images/I64_07_01.png	2.87	oversaturation	human	still_life	invalid
+images/I64_07_02.png	2.53	oversaturation	human	still_life	invalid
+images/I64_07_03.png	1.9	oversaturation	human	still_life	invalid
+images/I64_07_04.png	2.3	oversaturation	human	still_life	invalid
+images/I64_07_05.png	2.03	oversaturation	human	still_life	invalid
+images/I64_08_01.png	4.4	desaturation	human	still_life	invalid
+images/I64_08_02.png	4.03	desaturation	human	still_life	invalid
+images/I64_08_03.png	3.07	desaturation	human	still_life	invalid
+images/I64_08_04.png	2.07	desaturation	human	still_life	invalid
+images/I64_08_05.png	1.73	desaturation	human	still_life	invalid
+images/I64_09_01.png	4.33	jpeg2000 compression	human	still_life	invalid
+images/I64_09_02.png	4.1	jpeg2000 compression	human	still_life	invalid
+images/I64_09_03.png	3.67	jpeg2000 compression	human	still_life	invalid
+images/I64_09_04.png	2.1	jpeg2000 compression	human	still_life	invalid
+images/I64_09_05.png	1.33	jpeg2000 compression	human	still_life	invalid
+images/I64_10_01.png	4.23	jpeg compression	human	still_life	invalid
+images/I64_10_02.png	3.93	jpeg compression	human	still_life	invalid
+images/I64_10_03.png	3.97	jpeg compression	human	still_life	invalid
+images/I64_10_04.png	2.13	jpeg compression	human	still_life	invalid
+images/I64_10_05.png	1.4	jpeg compression	human	still_life	invalid
+images/I64_11_01.png	3.74	white noise	human	still_life	invalid
+images/I64_11_02.png	3.37	white noise	human	still_life	invalid
+images/I64_11_03.png	2.87	white noise	human	still_life	invalid
+images/I64_11_04.png	2.8	white noise	human	still_life	invalid
+images/I64_11_05.png	2.63	white noise	human	still_life	invalid
+images/I64_12_01.png	4.47	white with color	human	still_life	invalid
+images/I64_12_02.png	4.1	white with color	human	still_life	invalid
+images/I64_12_03.png	3.34	white with color	human	still_life	invalid
+images/I64_12_04.png	2.84	white with color	human	still_life	invalid
+images/I64_12_05.png	2.6	white with color	human	still_life	invalid
+images/I64_13_01.png	3.73	impulse	human	still_life	invalid
+images/I64_13_02.png	3.37	impulse	human	still_life	invalid
+images/I64_13_03.png	2.9	impulse	human	still_life	invalid
+images/I64_13_04.png	2.53	impulse	human	still_life	invalid
+images/I64_13_05.png	2.22	impulse	human	still_life	invalid
+images/I64_14_01.png	4.47	multiplicative	human	still_life	invalid
+images/I64_14_02.png	3.83	multiplicative	human	still_life	invalid
+images/I64_14_03.png	3.33	multiplicative	human	still_life	invalid
+images/I64_14_04.png	2.53	multiplicative	human	still_life	invalid
+images/I64_14_05.png	2.2	multiplicative	human	still_life	invalid
+images/I64_15_01.png	3.8	white noise with denoise	human	still_life	invalid
+images/I64_15_02.png	3.13	white noise with denoise	human	still_life	invalid
+images/I64_15_03.png	2.63	white noise with denoise	human	still_life	invalid
+images/I64_15_04.png	1.47	white noise with denoise	human	still_life	invalid
+images/I64_15_05.png	1.47	white noise with denoise	human	still_life	invalid
+images/I64_16_01.png	4.43	brighten	human	still_life	invalid
+images/I64_16_02.png	4.3	brighten	human	still_life	invalid
+images/I64_16_03.png	3.57	brighten	human	still_life	invalid
+images/I64_16_04.png	2.63	brighten	human	still_life	invalid
+images/I64_16_05.png	1.53	brighten	human	still_life	invalid
+images/I64_17_01.png	4.53	darken	human	still_life	invalid
+images/I64_17_02.png	4.57	darken	human	still_life	invalid
+images/I64_17_03.png	4.27	darken	human	still_life	invalid
+images/I64_17_04.png	3.8	darken	human	still_life	invalid
+images/I64_17_05.png	1.93	darken	human	still_life	invalid
+images/I64_18_01.png	4.3	shifting the mean	human	still_life	invalid
+images/I64_18_02.png	4.53	shifting the mean	human	still_life	invalid
+images/I64_18_03.png	4.67	shifting the mean	human	still_life	invalid
+images/I64_18_04.png	4.67	shifting the mean	human	still_life	invalid
+images/I64_18_05.png	3.97	shifting the mean	human	still_life	invalid
+images/I64_19_01.png	4.27	jitter	human	still_life	invalid
+images/I64_19_02.png	3.8	jitter	human	still_life	invalid
+images/I64_19_03.png	2.43	jitter	human	still_life	invalid
+images/I64_19_04.png	1.32	jitter	human	still_life	invalid
+images/I64_19_05.png	1.27	jitter	human	still_life	invalid
+images/I64_20_01.png	4.33	noneccentricity patch	human	still_life	invalid
+images/I64_20_02.png	4.37	noneccentricity patch	human	still_life	invalid
+images/I64_20_03.png	3.93	noneccentricity patch	human	still_life	invalid
+images/I64_20_04.png	3.9	noneccentricity patch	human	still_life	invalid
+images/I64_20_05.png	3.53	noneccentricity patch	human	still_life	invalid
+images/I64_21_01.png	2.93	pixelate	human	still_life	invalid
+images/I64_21_02.png	2.39	pixelate	human	still_life	invalid
+images/I64_21_03.png	2.7	pixelate	human	still_life	invalid
+images/I64_21_04.png	2.07	pixelate	human	still_life	invalid
+images/I64_21_05.png	1.1	pixelate	human	still_life	invalid
+images/I64_22_01.png	4.37	quantization	human	still_life	invalid
+images/I64_22_02.png	4.33	quantization	human	still_life	invalid
+images/I64_22_03.png	4.07	quantization	human	still_life	invalid
+images/I64_22_04.png	3.7	quantization	human	still_life	invalid
+images/I64_22_05.png	3.07	quantization	human	still_life	invalid
+images/I64_23_01.png	3.17	color blocking	human	still_life	invalid
+images/I64_23_02.png	2.37	color blocking	human	still_life	invalid
+images/I64_23_03.png	2.43	color blocking	human	still_life	invalid
+images/I64_23_04.png	2.0	color blocking	human	still_life	invalid
+images/I64_23_05.png	2.43	color blocking	human	still_life	invalid
+images/I64_24_01.png	3.63	sharpness	human	still_life	invalid
+images/I64_24_02.png	2.63	sharpness	human	still_life	invalid
+images/I64_24_03.png	2.57	sharpness	human	still_life	invalid
+images/I64_24_04.png	1.8	sharpness	human	still_life	invalid
+images/I64_24_05.png	1.33	sharpness	human	still_life	invalid
+images/I64_25_01.png	3.83	contrast	human	still_life	invalid
+images/I64_25_02.png	4.2	contrast	human	still_life	invalid
+images/I64_25_03.png	4.4	contrast	human	still_life	invalid
+images/I64_25_04.png	4.23	contrast	human	still_life	invalid
+images/I64_25_05.png	3.5	contrast	human	still_life	invalid
+images/I15_01_01.png	4.63	gaussian blur	landscape	invalid	invalid
+images/I15_01_02.png	4.33	gaussian blur	landscape	invalid	invalid
+images/I15_01_03.png	2.43	gaussian blur	landscape	invalid	invalid
+images/I15_01_04.png	1.8	gaussian blur	landscape	invalid	invalid
+images/I15_01_05.png	1.23	gaussian blur	landscape	invalid	invalid
+images/I15_02_01.png	3.43	lens	landscape	invalid	invalid
+images/I15_02_02.png	2.1	lens	landscape	invalid	invalid
+images/I15_02_03.png	1.73	lens	landscape	invalid	invalid
+images/I15_02_04.png	1.33	lens	landscape	invalid	invalid
+images/I15_02_05.png	1.16	lens	landscape	invalid	invalid
+images/I15_03_01.png	4.6	motion	landscape	invalid	invalid
+images/I15_03_02.png	3.7	motion	landscape	invalid	invalid
+images/I15_03_03.png	2.0	motion	landscape	invalid	invalid
+images/I15_03_04.png	2.07	motion	landscape	invalid	invalid
+images/I15_03_05.png	1.33	motion	landscape	invalid	invalid
+images/I15_04_01.png	4.43	diffusion	landscape	invalid	invalid
+images/I15_04_02.png	2.4	diffusion	landscape	invalid	invalid
+images/I15_04_03.png	1.87	diffusion	landscape	invalid	invalid
+images/I15_04_04.png	1.9	diffusion	landscape	invalid	invalid
+images/I15_04_05.png	1.27	diffusion	landscape	invalid	invalid
+images/I15_05_01.png	4.2	shifting	landscape	invalid	invalid
+images/I15_05_02.png	2.33	shifting	landscape	invalid	invalid
+images/I15_05_03.png	1.63	shifting	landscape	invalid	invalid
+images/I15_05_04.png	1.43	shifting	landscape	invalid	invalid
+images/I15_05_05.png	1.3	shifting	landscape	invalid	invalid
+images/I15_06_01.png	4.1	color quantization	landscape	invalid	invalid
+images/I15_06_02.png	3.97	color quantization	landscape	invalid	invalid
+images/I15_06_03.png	4.07	color quantization	landscape	invalid	invalid
+images/I15_06_04.png	3.67	color quantization	landscape	invalid	invalid
+images/I15_06_05.png	2.73	color quantization	landscape	invalid	invalid
+images/I15_07_01.png	3.06	oversaturation	landscape	invalid	invalid
+images/I15_07_02.png	2.67	oversaturation	landscape	invalid	invalid
+images/I15_07_03.png	2.63	oversaturation	landscape	invalid	invalid
+images/I15_07_04.png	2.55	oversaturation	landscape	invalid	invalid
+images/I15_07_05.png	2.63	oversaturation	landscape	invalid	invalid
+images/I15_08_01.png	4.4	desaturation	landscape	invalid	invalid
+images/I15_08_02.png	3.27	desaturation	landscape	invalid	invalid
+images/I15_08_03.png	2.27	desaturation	landscape	invalid	invalid
+images/I15_08_04.png	1.67	desaturation	landscape	invalid	invalid
+images/I15_08_05.png	1.35	desaturation	landscape	invalid	invalid
+images/I15_09_01.png	4.23	jpeg2000 compression	landscape	invalid	invalid
+images/I15_09_02.png	3.8	jpeg2000 compression	landscape	invalid	invalid
+images/I15_09_03.png	3.43	jpeg2000 compression	landscape	invalid	invalid
+images/I15_09_04.png	1.97	jpeg2000 compression	landscape	invalid	invalid
+images/I15_09_05.png	1.23	jpeg2000 compression	landscape	invalid	invalid
+images/I15_10_01.png	4.0	jpeg compression	landscape	invalid	invalid
+images/I15_10_02.png	4.2	jpeg compression	landscape	invalid	invalid
+images/I15_10_03.png	3.67	jpeg compression	landscape	invalid	invalid
+images/I15_10_04.png	1.77	jpeg compression	landscape	invalid	invalid
+images/I15_10_05.png	1.33	jpeg compression	landscape	invalid	invalid
+images/I15_11_01.png	3.83	white noise	landscape	invalid	invalid
+images/I15_11_02.png	3.63	white noise	landscape	invalid	invalid
+images/I15_11_03.png	2.8	white noise	landscape	invalid	invalid
+images/I15_11_04.png	2.6	white noise	landscape	invalid	invalid
+images/I15_11_05.png	2.3	white noise	landscape	invalid	invalid
+images/I15_12_01.png	4.07	white with color	landscape	invalid	invalid
+images/I15_12_02.png	3.8	white with color	landscape	invalid	invalid
+images/I15_12_03.png	3.17	white with color	landscape	invalid	invalid
+images/I15_12_04.png	2.63	white with color	landscape	invalid	invalid
+images/I15_12_05.png	2.57	white with color	landscape	invalid	invalid
+images/I15_13_01.png	3.9	impulse	landscape	invalid	invalid
+images/I15_13_02.png	3.17	impulse	landscape	invalid	invalid
+images/I15_13_03.png	2.4	impulse	landscape	invalid	invalid
+images/I15_13_04.png	2.3	impulse	landscape	invalid	invalid
+images/I15_13_05.png	1.7	impulse	landscape	invalid	invalid
+images/I15_14_01.png	4.03	multiplicative	landscape	invalid	invalid
+images/I15_14_02.png	3.27	multiplicative	landscape	invalid	invalid
+images/I15_14_03.png	2.67	multiplicative	landscape	invalid	invalid
+images/I15_14_04.png	2.63	multiplicative	landscape	invalid	invalid
+images/I15_14_05.png	1.87	multiplicative	landscape	invalid	invalid
+images/I15_15_01.png	3.53	white noise with denoise	landscape	invalid	invalid
+images/I15_15_02.png	2.57	white noise with denoise	landscape	invalid	invalid
+images/I15_15_03.png	1.93	white noise with denoise	landscape	invalid	invalid
+images/I15_15_04.png	1.7	white noise with denoise	landscape	invalid	invalid
+images/I15_15_05.png	1.4	white noise with denoise	landscape	invalid	invalid
+images/I15_16_01.png	4.47	brighten	landscape	invalid	invalid
+images/I15_16_02.png	3.77	brighten	landscape	invalid	invalid
+images/I15_16_03.png	2.93	brighten	landscape	invalid	invalid
+images/I15_16_04.png	1.73	brighten	landscape	invalid	invalid
+images/I15_16_05.png	1.23	brighten	landscape	invalid	invalid
+images/I15_17_01.png	4.43	darken	landscape	invalid	invalid
+images/I15_17_02.png	4.63	darken	landscape	invalid	invalid
+images/I15_17_03.png	4.1	darken	landscape	invalid	invalid
+images/I15_17_04.png	3.63	darken	landscape	invalid	invalid
+images/I15_17_05.png	1.97	darken	landscape	invalid	invalid
+images/I15_18_01.png	3.77	shifting the mean	landscape	invalid	invalid
+images/I15_18_02.png	3.87	shifting the mean	landscape	invalid	invalid
+images/I15_18_03.png	4.67	shifting the mean	landscape	invalid	invalid
+images/I15_18_04.png	4.37	shifting the mean	landscape	invalid	invalid
+images/I15_18_05.png	3.6	shifting the mean	landscape	invalid	invalid
+images/I15_19_01.png	3.93	jitter	landscape	invalid	invalid
+images/I15_19_02.png	4.07	jitter	landscape	invalid	invalid
+images/I15_19_03.png	3.03	jitter	landscape	invalid	invalid
+images/I15_19_04.png	1.77	jitter	landscape	invalid	invalid
+images/I15_19_05.png	1.27	jitter	landscape	invalid	invalid
+images/I15_20_01.png	4.33	noneccentricity patch	landscape	invalid	invalid
+images/I15_20_02.png	4.2	noneccentricity patch	landscape	invalid	invalid
+images/I15_20_03.png	4.07	noneccentricity patch	landscape	invalid	invalid
+images/I15_20_04.png	3.9	noneccentricity patch	landscape	invalid	invalid
+images/I15_20_05.png	3.35	noneccentricity patch	landscape	invalid	invalid
+images/I15_21_01.png	3.43	pixelate	landscape	invalid	invalid
+images/I15_21_02.png	2.9	pixelate	landscape	invalid	invalid
+images/I15_21_03.png	2.57	pixelate	landscape	invalid	invalid
+images/I15_21_04.png	2.03	pixelate	landscape	invalid	invalid
+images/I15_21_05.png	1.17	pixelate	landscape	invalid	invalid
+images/I15_22_01.png	3.93	quantization	landscape	invalid	invalid
+images/I15_22_02.png	3.57	quantization	landscape	invalid	invalid
+images/I15_22_03.png	4.0	quantization	landscape	invalid	invalid
+images/I15_22_04.png	3.7	quantization	landscape	invalid	invalid
+images/I15_22_05.png	3.1	quantization	landscape	invalid	invalid
+images/I15_23_01.png	2.5	color blocking	landscape	invalid	invalid
+images/I15_23_02.png	1.9	color blocking	landscape	invalid	invalid
+images/I15_23_03.png	2.27	color blocking	landscape	invalid	invalid
+images/I15_23_04.png	2.17	color blocking	landscape	invalid	invalid
+images/I15_23_05.png	1.93	color blocking	landscape	invalid	invalid
+images/I15_24_01.png	2.8	sharpness	landscape	invalid	invalid
+images/I15_24_02.png	2.1	sharpness	landscape	invalid	invalid
+images/I15_24_03.png	1.53	sharpness	landscape	invalid	invalid
+images/I15_24_04.png	1.57	sharpness	landscape	invalid	invalid
+images/I15_24_05.png	1.17	sharpness	landscape	invalid	invalid
+images/I15_25_01.png	2.97	contrast	landscape	invalid	invalid
+images/I15_25_02.png	3.2	contrast	landscape	invalid	invalid
+images/I15_25_03.png	3.63	contrast	landscape	invalid	invalid
+images/I15_25_04.png	3.87	contrast	landscape	invalid	invalid
+images/I15_25_05.png	3.2	contrast	landscape	invalid	invalid
+images/I09_01_01.png	4.73	gaussian blur	landscape	still_life	invalid
+images/I09_01_02.png	3.77	gaussian blur	landscape	still_life	invalid
+images/I09_01_03.png	1.93	gaussian blur	landscape	still_life	invalid
+images/I09_01_04.png	1.4	gaussian blur	landscape	still_life	invalid
+images/I09_01_05.png	1.2	gaussian blur	landscape	still_life	invalid
+images/I09_02_01.png	3.1	lens	landscape	still_life	invalid
+images/I09_02_02.png	2.13	lens	landscape	still_life	invalid
+images/I09_02_03.png	1.37	lens	landscape	still_life	invalid
+images/I09_02_04.png	1.57	lens	landscape	still_life	invalid
+images/I09_02_05.png	1.07	lens	landscape	still_life	invalid
+images/I09_03_01.png	4.5	motion	landscape	still_life	invalid
+images/I09_03_02.png	3.67	motion	landscape	still_life	invalid
+images/I09_03_03.png	2.13	motion	landscape	still_life	invalid
+images/I09_03_04.png	1.67	motion	landscape	still_life	invalid
+images/I09_03_05.png	1.3	motion	landscape	still_life	invalid
+images/I09_04_01.png	4.27	diffusion	landscape	still_life	invalid
+images/I09_04_02.png	2.6	diffusion	landscape	still_life	invalid
+images/I09_04_03.png	1.6	diffusion	landscape	still_life	invalid
+images/I09_04_04.png	1.67	diffusion	landscape	still_life	invalid
+images/I09_04_05.png	1.47	diffusion	landscape	still_life	invalid
+images/I09_05_01.png	3.61	shifting	landscape	still_life	invalid
+images/I09_05_02.png	1.8	shifting	landscape	still_life	invalid
+images/I09_05_03.png	1.47	shifting	landscape	still_life	invalid
+images/I09_05_04.png	1.5	shifting	landscape	still_life	invalid
+images/I09_05_05.png	1.4	shifting	landscape	still_life	invalid
+images/I09_06_01.png	3.9	color quantization	landscape	still_life	invalid
+images/I09_06_02.png	3.83	color quantization	landscape	still_life	invalid
+images/I09_06_03.png	3.77	color quantization	landscape	still_life	invalid
+images/I09_06_04.png	2.7	color quantization	landscape	still_life	invalid
+images/I09_06_05.png	2.3	color quantization	landscape	still_life	invalid
+images/I09_07_01.png	2.87	oversaturation	landscape	still_life	invalid
+images/I09_07_02.png	2.73	oversaturation	landscape	still_life	invalid
+images/I09_07_03.png	2.27	oversaturation	landscape	still_life	invalid
+images/I09_07_04.png	2.07	oversaturation	landscape	still_life	invalid
+images/I09_07_05.png	2.3	oversaturation	landscape	still_life	invalid
+images/I09_08_01.png	4.37	desaturation	landscape	still_life	invalid
+images/I09_08_02.png	3.1	desaturation	landscape	still_life	invalid
+images/I09_08_03.png	2.47	desaturation	landscape	still_life	invalid
+images/I09_08_04.png	1.58	desaturation	landscape	still_life	invalid
+images/I09_08_05.png	1.6	desaturation	landscape	still_life	invalid
+images/I09_09_01.png	4.1	jpeg2000 compression	landscape	still_life	invalid
+images/I09_09_02.png	3.33	jpeg2000 compression	landscape	still_life	invalid
+images/I09_09_03.png	2.63	jpeg2000 compression	landscape	still_life	invalid
+images/I09_09_04.png	1.77	jpeg2000 compression	landscape	still_life	invalid
+images/I09_09_05.png	1.17	jpeg2000 compression	landscape	still_life	invalid
+images/I09_10_01.png	3.93	jpeg compression	landscape	still_life	invalid
+images/I09_10_02.png	4.37	jpeg compression	landscape	still_life	invalid
+images/I09_10_03.png	3.67	jpeg compression	landscape	still_life	invalid
+images/I09_10_04.png	1.93	jpeg compression	landscape	still_life	invalid
+images/I09_10_05.png	1.23	jpeg compression	landscape	still_life	invalid
+images/I09_11_01.png	4.3	white noise	landscape	still_life	invalid
+images/I09_11_02.png	3.33	white noise	landscape	still_life	invalid
+images/I09_11_03.png	3.0	white noise	landscape	still_life	invalid
+images/I09_11_04.png	2.53	white noise	landscape	still_life	invalid
+images/I09_11_05.png	2.1	white noise	landscape	still_life	invalid
+images/I09_12_01.png	4.67	white with color	landscape	still_life	invalid
+images/I09_12_02.png	3.77	white with color	landscape	still_life	invalid
+images/I09_12_03.png	2.83	white with color	landscape	still_life	invalid
+images/I09_12_04.png	2.7	white with color	landscape	still_life	invalid
+images/I09_12_05.png	2.2	white with color	landscape	still_life	invalid
+images/I09_13_01.png	3.97	impulse	landscape	still_life	invalid
+images/I09_13_02.png	2.57	impulse	landscape	still_life	invalid
+images/I09_13_03.png	2.83	impulse	landscape	still_life	invalid
+images/I09_13_04.png	2.42	impulse	landscape	still_life	invalid
+images/I09_13_05.png	2.35	impulse	landscape	still_life	invalid
+images/I09_14_01.png	4.33	multiplicative	landscape	still_life	invalid
+images/I09_14_02.png	3.1	multiplicative	landscape	still_life	invalid
+images/I09_14_03.png	2.9	multiplicative	landscape	still_life	invalid
+images/I09_14_04.png	2.27	multiplicative	landscape	still_life	invalid
+images/I09_14_05.png	1.63	multiplicative	landscape	still_life	invalid
+images/I09_15_01.png	3.37	white noise with denoise	landscape	still_life	invalid
+images/I09_15_02.png	2.57	white noise with denoise	landscape	still_life	invalid
+images/I09_15_03.png	2.23	white noise with denoise	landscape	still_life	invalid
+images/I09_15_04.png	1.6	white noise with denoise	landscape	still_life	invalid
+images/I09_15_05.png	1.5	white noise with denoise	landscape	still_life	invalid
+images/I09_16_01.png	4.5	brighten	landscape	still_life	invalid
+images/I09_16_02.png	3.97	brighten	landscape	still_life	invalid
+images/I09_16_03.png	3.03	brighten	landscape	still_life	invalid
+images/I09_16_04.png	2.33	brighten	landscape	still_life	invalid
+images/I09_16_05.png	1.57	brighten	landscape	still_life	invalid
+images/I09_17_01.png	4.6	darken	landscape	still_life	invalid
+images/I09_17_02.png	4.5	darken	landscape	still_life	invalid
+images/I09_17_03.png	4.13	darken	landscape	still_life	invalid
+images/I09_17_04.png	3.33	darken	landscape	still_life	invalid
+images/I09_17_05.png	1.87	darken	landscape	still_life	invalid
+images/I09_18_01.png	4.3	shifting the mean	landscape	still_life	invalid
+images/I09_18_02.png	4.53	shifting the mean	landscape	still_life	invalid
+images/I09_18_03.png	4.53	shifting the mean	landscape	still_life	invalid
+images/I09_18_04.png	4.43	shifting the mean	landscape	still_life	invalid
+images/I09_18_05.png	3.8	shifting the mean	landscape	still_life	invalid
+images/I09_19_01.png	4.17	jitter	landscape	still_life	invalid
+images/I09_19_02.png	3.83	jitter	landscape	still_life	invalid
+images/I09_19_03.png	3.43	jitter	landscape	still_life	invalid
+images/I09_19_04.png	1.83	jitter	landscape	still_life	invalid
+images/I09_19_05.png	1.27	jitter	landscape	still_life	invalid
+images/I09_20_01.png	4.4	noneccentricity patch	landscape	still_life	invalid
+images/I09_20_02.png	4.37	noneccentricity patch	landscape	still_life	invalid
+images/I09_20_03.png	4.1	noneccentricity patch	landscape	still_life	invalid
+images/I09_20_04.png	3.73	noneccentricity patch	landscape	still_life	invalid
+images/I09_20_05.png	3.3	noneccentricity patch	landscape	still_life	invalid
+images/I09_21_01.png	3.83	pixelate	landscape	still_life	invalid
+images/I09_21_02.png	3.5	pixelate	landscape	still_life	invalid
+images/I09_21_03.png	3.07	pixelate	landscape	still_life	invalid
+images/I09_21_04.png	3.17	pixelate	landscape	still_life	invalid
+images/I09_21_05.png	1.57	pixelate	landscape	still_life	invalid
+images/I09_22_01.png	4.7	quantization	landscape	still_life	invalid
+images/I09_22_02.png	4.33	quantization	landscape	still_life	invalid
+images/I09_22_03.png	4.23	quantization	landscape	still_life	invalid
+images/I09_22_04.png	4.1	quantization	landscape	still_life	invalid
+images/I09_22_05.png	3.4	quantization	landscape	still_life	invalid
+images/I09_23_01.png	2.39	color blocking	landscape	still_life	invalid
+images/I09_23_02.png	2.33	color blocking	landscape	still_life	invalid
+images/I09_23_03.png	2.17	color blocking	landscape	still_life	invalid
+images/I09_23_04.png	2.03	color blocking	landscape	still_life	invalid
+images/I09_23_05.png	1.83	color blocking	landscape	still_life	invalid
+images/I09_24_01.png	3.07	sharpness	landscape	still_life	invalid
+images/I09_24_02.png	2.2	sharpness	landscape	still_life	invalid
+images/I09_24_03.png	1.87	sharpness	landscape	still_life	invalid
+images/I09_24_04.png	1.23	sharpness	landscape	still_life	invalid
+images/I09_24_05.png	1.1	sharpness	landscape	still_life	invalid
+images/I09_25_01.png	3.07	contrast	landscape	still_life	invalid
+images/I09_25_02.png	3.63	contrast	landscape	still_life	invalid
+images/I09_25_03.png	4.23	contrast	landscape	still_life	invalid
+images/I09_25_04.png	4.1	contrast	landscape	still_life	invalid
+images/I09_25_05.png	3.57	contrast	landscape	still_life	invalid

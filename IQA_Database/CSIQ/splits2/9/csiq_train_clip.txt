@@ -1,0 +1,606 @@
+dst_imgs/awgn/turtle.AWGN.1.png	0.98	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.2.png	0.881	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.3.png	0.801	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.4.png	0.671	white noise	animal	invalid	invalid
+dst_imgs/awgn/turtle.AWGN.5.png	0.564	white noise	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.1.png	0.985	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.2.png	0.871	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.3.png	0.512	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.4.png	0.31	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/turtle.JPEG.5.png	0.225	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.1.png	0.998	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.2.png	0.838	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.3.png	0.468	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.4.png	0.198	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/turtle.jpeg2000.5.png	0.016	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.1.png	0.961	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.2.png	0.827	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.3.png	0.655	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.4.png	0.462	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/turtle.fnoise.5.png	0.347	fnoise	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.1.png	0.94	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.2.png	0.765	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.3.png	0.482	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.4.png	0.253	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/turtle.BLUR.5.png	0.067	gaussian blur	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.1.png	0.921	contrast	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.2.png	0.801	contrast	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.3.png	0.593	contrast	animal	invalid	invalid
+dst_imgs/contrast/turtle.contrast.4.png	0.446	contrast	animal	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.1.png	0.948	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.2.png	0.87	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.3.png	0.784	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.4.png	0.688	white noise	human	invalid	invalid
+dst_imgs/awgn/fisher.AWGN.5.png	0.56	white noise	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.1.png	0.992	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.2.png	0.82	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.3.png	0.482	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.4.png	0.275	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/fisher.JPEG.5.png	0.209	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.1.png	0.992	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.2.png	0.824	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.3.png	0.482	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.4.png	0.192	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/fisher.jpeg2000.5.png	0.028	jpeg2000 compression	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.1.png	0.934	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.2.png	0.73	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.3.png	0.597	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.4.png	0.513	fnoise	human	invalid	invalid
+dst_imgs/fnoise/fisher.fnoise.5.png	0.393	fnoise	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.1.png	0.944	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.2.png	0.639	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.3.png	0.417	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.4.png	0.2	gaussian blur	human	invalid	invalid
+dst_imgs/blur/fisher.BLUR.5.png	0.087	gaussian blur	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.1.png	0.91	contrast	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.2.png	0.788	contrast	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.3.png	0.658	contrast	human	invalid	invalid
+dst_imgs/contrast/fisher.contrast.4.png	0.611	contrast	human	invalid	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.1.png	0.958	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.2.png	0.821	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.3.png	0.674	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.4.png	0.542	white noise	animal	night	invalid
+dst_imgs/awgn/sunset_sparrow.AWGN.5.png	0.451	white noise	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.1.png	0.957	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.2.png	0.883	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.3.png	0.658	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.4.png	0.278	jpeg compression	animal	night	invalid
+dst_imgs/jpeg/sunset_sparrow.JPEG.5.png	0.174	jpeg compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.1.png	0.942	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.2.png	0.821	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.3.png	0.609	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.4.png	0.394	jpeg2000 compression	animal	night	invalid
+dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.5.png	0.111	jpeg2000 compression	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.1.png	0.776	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.2.png	0.631	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.3.png	0.461	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.4.png	0.393	fnoise	animal	night	invalid
+dst_imgs/fnoise/sunset_sparrow.fnoise.5.png	0.266	fnoise	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.1.png	0.913	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.2.png	0.809	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.3.png	0.693	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.4.png	0.452	gaussian blur	animal	night	invalid
+dst_imgs/blur/sunset_sparrow.BLUR.5.png	0.154	gaussian blur	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.1.png	0.906	contrast	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.2.png	0.74	contrast	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.3.png	0.598	contrast	animal	night	invalid
+dst_imgs/contrast/sunset_sparrow.contrast.4.png	0.535	contrast	animal	night	invalid
+dst_imgs/awgn/monument.AWGN.1.png	0.988	white noise	landscape	invalid	invalid
+dst_imgs/awgn/monument.AWGN.2.png	0.919	white noise	landscape	invalid	invalid
+dst_imgs/awgn/monument.AWGN.3.png	0.817	white noise	landscape	invalid	invalid
+dst_imgs/awgn/monument.AWGN.4.png	0.675	white noise	landscape	invalid	invalid
+dst_imgs/awgn/monument.AWGN.5.png	0.532	white noise	landscape	invalid	invalid
+dst_imgs/jpeg/monument.JPEG.1.png	0.984	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/monument.JPEG.2.png	0.937	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/monument.JPEG.3.png	0.676	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/monument.JPEG.4.png	0.432	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/monument.JPEG.5.png	0.234	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/monument.jpeg2000.1.png	0.985	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/monument.jpeg2000.2.png	0.894	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/monument.jpeg2000.3.png	0.619	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/monument.jpeg2000.4.png	0.335	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/monument.jpeg2000.5.png	0.179	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/fnoise/monument.fnoise.1.png	0.969	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/monument.fnoise.2.png	0.792	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/monument.fnoise.3.png	0.68	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/monument.fnoise.4.png	0.486	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/monument.fnoise.5.png	0.402	fnoise	landscape	invalid	invalid
+dst_imgs/blur/monument.BLUR.1.png	0.952	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/monument.BLUR.2.png	0.823	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/monument.BLUR.3.png	0.641	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/monument.BLUR.4.png	0.412	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/monument.BLUR.5.png	0.21	gaussian blur	landscape	invalid	invalid
+dst_imgs/contrast/monument.contrast.1.png	0.987	contrast	landscape	invalid	invalid
+dst_imgs/contrast/monument.contrast.2.png	0.858	contrast	landscape	invalid	invalid
+dst_imgs/contrast/monument.contrast.3.png	0.742	contrast	landscape	invalid	invalid
+dst_imgs/contrast/monument.contrast.4.png	0.677	contrast	landscape	invalid	invalid
+dst_imgs/awgn/couple.AWGN.1.png	0.994	white noise	human	invalid	invalid
+dst_imgs/awgn/couple.AWGN.2.png	0.891	white noise	human	invalid	invalid
+dst_imgs/awgn/couple.AWGN.3.png	0.796	white noise	human	invalid	invalid
+dst_imgs/awgn/couple.AWGN.4.png	0.675	white noise	human	invalid	invalid
+dst_imgs/awgn/couple.AWGN.5.png	0.53	white noise	human	invalid	invalid
+dst_imgs/jpeg/couple.JPEG.1.png	0.998	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/couple.JPEG.2.png	0.966	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/couple.JPEG.3.png	0.742	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/couple.JPEG.4.png	0.414	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/couple.JPEG.5.png	0.276	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg2000/couple.jpeg2000.1.png	0.998	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/couple.jpeg2000.2.png	0.927	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/couple.jpeg2000.3.png	0.614	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/couple.jpeg2000.4.png	0.369	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/couple.jpeg2000.5.png	0.195	jpeg2000 compression	human	invalid	invalid
+dst_imgs/fnoise/couple.fnoise.1.png	0.988	fnoise	human	invalid	invalid
+dst_imgs/fnoise/couple.fnoise.2.png	0.911	fnoise	human	invalid	invalid
+dst_imgs/fnoise/couple.fnoise.3.png	0.735	fnoise	human	invalid	invalid
+dst_imgs/fnoise/couple.fnoise.4.png	0.533	fnoise	human	invalid	invalid
+dst_imgs/fnoise/couple.fnoise.5.png	0.361	fnoise	human	invalid	invalid
+dst_imgs/blur/couple.BLUR.1.png	0.953	gaussian blur	human	invalid	invalid
+dst_imgs/blur/couple.BLUR.2.png	0.751	gaussian blur	human	invalid	invalid
+dst_imgs/blur/couple.BLUR.3.png	0.592	gaussian blur	human	invalid	invalid
+dst_imgs/blur/couple.BLUR.4.png	0.411	gaussian blur	human	invalid	invalid
+dst_imgs/blur/couple.BLUR.5.png	0.215	gaussian blur	human	invalid	invalid
+dst_imgs/contrast/couple.contrast.1.png	0.903	contrast	human	invalid	invalid
+dst_imgs/contrast/couple.contrast.2.png	0.79	contrast	human	invalid	invalid
+dst_imgs/contrast/couple.contrast.3.png	0.648	contrast	human	invalid	invalid
+dst_imgs/contrast/couple.contrast.4.png	0.583	contrast	human	invalid	invalid
+dst_imgs/awgn/log_seaside.AWGN.1.png	1.0	white noise	landscape	invalid	invalid
+dst_imgs/awgn/log_seaside.AWGN.2.png	0.943	white noise	landscape	invalid	invalid
+dst_imgs/awgn/log_seaside.AWGN.3.png	0.868	white noise	landscape	invalid	invalid
+dst_imgs/awgn/log_seaside.AWGN.4.png	0.733	white noise	landscape	invalid	invalid
+dst_imgs/awgn/log_seaside.AWGN.5.png	0.558	white noise	landscape	invalid	invalid
+dst_imgs/jpeg/log_seaside.JPEG.1.png	1.0	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/log_seaside.JPEG.2.png	0.991	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/log_seaside.JPEG.3.png	0.962	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/log_seaside.JPEG.4.png	0.731	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/log_seaside.JPEG.5.png	0.361	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/log_seaside.jpeg2000.1.png	1.0	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/log_seaside.jpeg2000.2.png	0.955	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/log_seaside.jpeg2000.3.png	0.84	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/log_seaside.jpeg2000.4.png	0.606	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/log_seaside.jpeg2000.5.png	0.307	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/fnoise/log_seaside.fnoise.1.png	0.982	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/log_seaside.fnoise.2.png	0.857	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/log_seaside.fnoise.3.png	0.677	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/log_seaside.fnoise.4.png	0.482	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/log_seaside.fnoise.5.png	0.327	fnoise	landscape	invalid	invalid
+dst_imgs/blur/log_seaside.BLUR.1.png	0.987	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/log_seaside.BLUR.2.png	0.922	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/log_seaside.BLUR.3.png	0.793	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/log_seaside.BLUR.4.png	0.649	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/log_seaside.BLUR.5.png	0.41	gaussian blur	landscape	invalid	invalid
+dst_imgs/contrast/log_seaside.contrast.1.png	0.977	contrast	landscape	invalid	invalid
+dst_imgs/contrast/log_seaside.contrast.2.png	0.843	contrast	landscape	invalid	invalid
+dst_imgs/contrast/log_seaside.contrast.3.png	0.631	contrast	landscape	invalid	invalid
+dst_imgs/contrast/log_seaside.contrast.4.png	0.542	contrast	landscape	invalid	invalid
+dst_imgs/awgn/roping.AWGN.1.png	0.997	white noise	human	still_life	invalid
+dst_imgs/awgn/roping.AWGN.2.png	0.895	white noise	human	still_life	invalid
+dst_imgs/awgn/roping.AWGN.3.png	0.815	white noise	human	still_life	invalid
+dst_imgs/awgn/roping.AWGN.4.png	0.618	white noise	human	still_life	invalid
+dst_imgs/awgn/roping.AWGN.5.png	0.487	white noise	human	still_life	invalid
+dst_imgs/jpeg/roping.JPEG.1.png	0.986	jpeg compression	human	still_life	invalid
+dst_imgs/jpeg/roping.JPEG.2.png	0.925	jpeg compression	human	still_life	invalid
+dst_imgs/jpeg/roping.JPEG.3.png	0.7	jpeg compression	human	still_life	invalid
+dst_imgs/jpeg/roping.JPEG.4.png	0.401	jpeg compression	human	still_life	invalid
+dst_imgs/jpeg/roping.JPEG.5.png	0.171	jpeg compression	human	still_life	invalid
+dst_imgs/jpeg2000/roping.jpeg2000.1.png	0.983	jpeg2000 compression	human	still_life	invalid
+dst_imgs/jpeg2000/roping.jpeg2000.2.png	0.828	jpeg2000 compression	human	still_life	invalid
+dst_imgs/jpeg2000/roping.jpeg2000.3.png	0.636	jpeg2000 compression	human	still_life	invalid
+dst_imgs/jpeg2000/roping.jpeg2000.4.png	0.329	jpeg2000 compression	human	still_life	invalid
+dst_imgs/jpeg2000/roping.jpeg2000.5.png	0.09	jpeg2000 compression	human	still_life	invalid
+dst_imgs/fnoise/roping.fnoise.1.png	0.968	fnoise	human	still_life	invalid
+dst_imgs/fnoise/roping.fnoise.2.png	0.861	fnoise	human	still_life	invalid
+dst_imgs/fnoise/roping.fnoise.3.png	0.664	fnoise	human	still_life	invalid
+dst_imgs/fnoise/roping.fnoise.4.png	0.487	fnoise	human	still_life	invalid
+dst_imgs/fnoise/roping.fnoise.5.png	0.262	fnoise	human	still_life	invalid
+dst_imgs/blur/roping.BLUR.1.png	0.966	gaussian blur	human	still_life	invalid
+dst_imgs/blur/roping.BLUR.2.png	0.812	gaussian blur	human	still_life	invalid
+dst_imgs/blur/roping.BLUR.3.png	0.529	gaussian blur	human	still_life	invalid
+dst_imgs/blur/roping.BLUR.4.png	0.33	gaussian blur	human	still_life	invalid
+dst_imgs/blur/roping.BLUR.5.png	0.12	gaussian blur	human	still_life	invalid
+dst_imgs/contrast/roping.contrast.1.png	0.944	contrast	human	still_life	invalid
+dst_imgs/contrast/roping.contrast.2.png	0.808	contrast	human	still_life	invalid
+dst_imgs/contrast/roping.contrast.3.png	0.629	contrast	human	still_life	invalid
+dst_imgs/contrast/roping.contrast.4.png	0.55	contrast	human	still_life	invalid
+dst_imgs/awgn/cactus.AWGN.1.png	0.896	white noise	animal	plant	invalid
+dst_imgs/awgn/cactus.AWGN.2.png	0.794	white noise	animal	plant	invalid
+dst_imgs/awgn/cactus.AWGN.3.png	0.651	white noise	animal	plant	invalid
+dst_imgs/awgn/cactus.AWGN.4.png	0.561	white noise	animal	plant	invalid
+dst_imgs/awgn/cactus.AWGN.5.png	0.502	white noise	animal	plant	invalid
+dst_imgs/jpeg/cactus.JPEG.1.png	0.959	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/cactus.JPEG.2.png	0.84	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/cactus.JPEG.3.png	0.622	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/cactus.JPEG.4.png	0.296	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/cactus.JPEG.5.png	0.188	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg2000/cactus.jpeg2000.1.png	0.921	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/cactus.jpeg2000.2.png	0.791	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/cactus.jpeg2000.3.png	0.595	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/cactus.jpeg2000.4.png	0.361	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/cactus.jpeg2000.5.png	0.215	jpeg2000 compression	animal	plant	invalid
+dst_imgs/fnoise/cactus.fnoise.1.png	0.778	fnoise	animal	plant	invalid
+dst_imgs/fnoise/cactus.fnoise.2.png	0.675	fnoise	animal	plant	invalid
+dst_imgs/fnoise/cactus.fnoise.3.png	0.497	fnoise	animal	plant	invalid
+dst_imgs/fnoise/cactus.fnoise.4.png	0.405	fnoise	animal	plant	invalid
+dst_imgs/fnoise/cactus.fnoise.5.png	0.333	fnoise	animal	plant	invalid
+dst_imgs/blur/cactus.BLUR.1.png	0.933	gaussian blur	animal	plant	invalid
+dst_imgs/blur/cactus.BLUR.2.png	0.853	gaussian blur	animal	plant	invalid
+dst_imgs/blur/cactus.BLUR.3.png	0.601	gaussian blur	animal	plant	invalid
+dst_imgs/blur/cactus.BLUR.4.png	0.492	gaussian blur	animal	plant	invalid
+dst_imgs/blur/cactus.BLUR.5.png	0.25	gaussian blur	animal	plant	invalid
+dst_imgs/contrast/cactus.contrast.1.png	0.889	contrast	animal	plant	invalid
+dst_imgs/contrast/cactus.contrast.2.png	0.715	contrast	animal	plant	invalid
+dst_imgs/contrast/cactus.contrast.3.png	0.592	contrast	animal	plant	invalid
+dst_imgs/contrast/cactus.contrast.4.png	0.483	contrast	animal	plant	invalid
+dst_imgs/awgn/shroom.AWGN.1.png	0.969	white noise	plant	invalid	invalid
+dst_imgs/awgn/shroom.AWGN.2.png	0.864	white noise	plant	invalid	invalid
+dst_imgs/awgn/shroom.AWGN.3.png	0.763	white noise	plant	invalid	invalid
+dst_imgs/awgn/shroom.AWGN.4.png	0.645	white noise	plant	invalid	invalid
+dst_imgs/awgn/shroom.AWGN.5.png	0.537	white noise	plant	invalid	invalid
+dst_imgs/jpeg/shroom.JPEG.1.png	0.98	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/shroom.JPEG.2.png	0.875	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/shroom.JPEG.3.png	0.693	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/shroom.JPEG.4.png	0.337	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/shroom.JPEG.5.png	0.22	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg2000/shroom.jpeg2000.1.png	0.996	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/shroom.jpeg2000.2.png	0.92	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/shroom.jpeg2000.3.png	0.609	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/shroom.jpeg2000.4.png	0.395	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/shroom.jpeg2000.5.png	0.163	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/fnoise/shroom.fnoise.1.png	0.978	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/shroom.fnoise.2.png	0.82	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/shroom.fnoise.3.png	0.644	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/shroom.fnoise.4.png	0.425	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/shroom.fnoise.5.png	0.298	fnoise	plant	invalid	invalid
+dst_imgs/blur/shroom.BLUR.1.png	0.954	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/shroom.BLUR.2.png	0.839	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/shroom.BLUR.3.png	0.605	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/shroom.BLUR.4.png	0.451	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/shroom.BLUR.5.png	0.231	gaussian blur	plant	invalid	invalid
+dst_imgs/contrast/shroom.contrast.1.png	0.919	contrast	plant	invalid	invalid
+dst_imgs/contrast/shroom.contrast.2.png	0.816	contrast	plant	invalid	invalid
+dst_imgs/contrast/shroom.contrast.3.png	0.667	contrast	plant	invalid	invalid
+dst_imgs/contrast/shroom.contrast.4.png	0.59	contrast	plant	invalid	invalid
+dst_imgs/awgn/lady_liberty.AWGN.1.png	0.968	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/lady_liberty.AWGN.2.png	0.849	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/lady_liberty.AWGN.3.png	0.745	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/lady_liberty.AWGN.4.png	0.616	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/lady_liberty.AWGN.5.png	0.513	white noise	cityscape	invalid	invalid
+dst_imgs/jpeg/lady_liberty.JPEG.1.png	0.983	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/lady_liberty.JPEG.2.png	0.726	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/lady_liberty.JPEG.3.png	0.468	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/lady_liberty.JPEG.4.png	0.345	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/lady_liberty.JPEG.5.png	0.23	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/lady_liberty.jpeg2000.1.png	0.969	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/lady_liberty.jpeg2000.2.png	0.733	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/lady_liberty.jpeg2000.3.png	0.491	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/lady_liberty.jpeg2000.4.png	0.237	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/lady_liberty.jpeg2000.5.png	0.093	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/fnoise/lady_liberty.fnoise.1.png	0.968	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/lady_liberty.fnoise.2.png	0.807	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/lady_liberty.fnoise.3.png	0.648	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/lady_liberty.fnoise.4.png	0.495	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/lady_liberty.fnoise.5.png	0.358	fnoise	cityscape	invalid	invalid
+dst_imgs/blur/lady_liberty.BLUR.1.png	0.941	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/lady_liberty.BLUR.2.png	0.773	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/lady_liberty.BLUR.3.png	0.538	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/lady_liberty.BLUR.4.png	0.327	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/lady_liberty.BLUR.5.png	0.034	gaussian blur	cityscape	invalid	invalid
+dst_imgs/contrast/lady_liberty.contrast.1.png	0.908	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/lady_liberty.contrast.2.png	0.695	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/lady_liberty.contrast.3.png	0.359	contrast	cityscape	invalid	invalid
+dst_imgs/awgn/family.AWGN.1.png	0.912	white noise	human	landscape	night
+dst_imgs/awgn/family.AWGN.2.png	0.85	white noise	human	landscape	night
+dst_imgs/awgn/family.AWGN.3.png	0.725	white noise	human	landscape	night
+dst_imgs/awgn/family.AWGN.4.png	0.625	white noise	human	landscape	night
+dst_imgs/awgn/family.AWGN.5.png	0.52	white noise	human	landscape	night
+dst_imgs/jpeg/family.JPEG.1.png	0.978	jpeg compression	human	landscape	night
+dst_imgs/jpeg/family.JPEG.2.png	0.866	jpeg compression	human	landscape	night
+dst_imgs/jpeg/family.JPEG.3.png	0.353	jpeg compression	human	landscape	night
+dst_imgs/jpeg/family.JPEG.4.png	0.238	jpeg compression	human	landscape	night
+dst_imgs/jpeg/family.JPEG.5.png	0.154	jpeg compression	human	landscape	night
+dst_imgs/jpeg2000/family.jpeg2000.1.png	0.956	jpeg2000 compression	human	landscape	night
+dst_imgs/jpeg2000/family.jpeg2000.2.png	0.762	jpeg2000 compression	human	landscape	night
+dst_imgs/jpeg2000/family.jpeg2000.3.png	0.441	jpeg2000 compression	human	landscape	night
+dst_imgs/jpeg2000/family.jpeg2000.4.png	0.238	jpeg2000 compression	human	landscape	night
+dst_imgs/jpeg2000/family.jpeg2000.5.png	0.023	jpeg2000 compression	human	landscape	night
+dst_imgs/fnoise/family.fnoise.1.png	0.83	fnoise	human	landscape	night
+dst_imgs/fnoise/family.fnoise.2.png	0.728	fnoise	human	landscape	night
+dst_imgs/fnoise/family.fnoise.3.png	0.552	fnoise	human	landscape	night
+dst_imgs/fnoise/family.fnoise.4.png	0.431	fnoise	human	landscape	night
+dst_imgs/fnoise/family.fnoise.5.png	0.319	fnoise	human	landscape	night
+dst_imgs/blur/family.BLUR.1.png	0.963	gaussian blur	human	landscape	night
+dst_imgs/blur/family.BLUR.2.png	0.851	gaussian blur	human	landscape	night
+dst_imgs/blur/family.BLUR.3.png	0.738	gaussian blur	human	landscape	night
+dst_imgs/blur/family.BLUR.4.png	0.462	gaussian blur	human	landscape	night
+dst_imgs/blur/family.BLUR.5.png	0.144	gaussian blur	human	landscape	night
+dst_imgs/contrast/family.contrast.1.png	0.973	contrast	human	landscape	night
+dst_imgs/contrast/family.contrast.2.png	0.855	contrast	human	landscape	night
+dst_imgs/contrast/family.contrast.3.png	0.72	contrast	human	landscape	night
+dst_imgs/contrast/family.contrast.4.png	0.621	contrast	human	landscape	night
+dst_imgs/awgn/native_american.AWGN.1.png	0.96	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.2.png	0.931	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.3.png	0.776	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.4.png	0.599	white noise	human	invalid	invalid
+dst_imgs/awgn/native_american.AWGN.5.png	0.524	white noise	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.1.png	0.977	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.2.png	0.908	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.3.png	0.638	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.4.png	0.301	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg/native_american.JPEG.5.png	0.173	jpeg compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.1.png	0.945	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.2.png	0.85	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.3.png	0.627	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.4.png	0.277	jpeg2000 compression	human	invalid	invalid
+dst_imgs/jpeg2000/native_american.jpeg2000.5.png	0.113	jpeg2000 compression	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.1.png	0.913	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.2.png	0.746	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.3.png	0.509	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.4.png	0.382	fnoise	human	invalid	invalid
+dst_imgs/fnoise/native_american.fnoise.5.png	0.265	fnoise	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.1.png	0.965	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.2.png	0.828	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.3.png	0.635	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.4.png	0.393	gaussian blur	human	invalid	invalid
+dst_imgs/blur/native_american.BLUR.5.png	0.132	gaussian blur	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.1.png	0.938	contrast	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.2.png	0.776	contrast	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.3.png	0.63	contrast	human	invalid	invalid
+dst_imgs/contrast/native_american.contrast.4.png	0.541	contrast	human	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.1.png	0.981	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.2.png	0.937	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.3.png	0.788	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.4.png	0.707	white noise	plant	invalid	invalid
+dst_imgs/awgn/snow_leaves.AWGN.5.png	0.566	white noise	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.1.png	0.978	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.2.png	0.94	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.3.png	0.739	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.4.png	0.445	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/snow_leaves.JPEG.5.png	0.289	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.1.png	0.996	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.2.png	0.922	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.3.png	0.813	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.4.png	0.445	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/snow_leaves.jpeg2000.5.png	0.243	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.1.png	0.952	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.2.png	0.775	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.3.png	0.589	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.4.png	0.464	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/snow_leaves.fnoise.5.png	0.321	fnoise	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.1.png	0.98	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.2.png	0.86	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.3.png	0.7	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.4.png	0.54	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/snow_leaves.BLUR.5.png	0.304	gaussian blur	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.1.png	0.959	contrast	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.2.png	0.779	contrast	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.3.png	0.68	contrast	plant	invalid	invalid
+dst_imgs/contrast/snow_leaves.contrast.4.png	0.621	contrast	plant	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.1.png	0.968	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.2.png	0.869	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.3.png	0.741	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.4.png	0.618	white noise	landscape	invalid	invalid
+dst_imgs/awgn/rushmore.AWGN.5.png	0.487	white noise	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.1.png	0.976	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.2.png	0.957	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.3.png	0.819	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.4.png	0.463	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/rushmore.JPEG.5.png	0.334	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.1.png	0.982	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.2.png	0.91	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.3.png	0.694	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.4.png	0.499	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/rushmore.jpeg2000.5.png	0.246	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.1.png	0.802	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.2.png	0.703	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.3.png	0.578	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.4.png	0.453	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/rushmore.fnoise.5.png	0.364	fnoise	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.1.png	0.989	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.2.png	0.917	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.3.png	0.758	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.4.png	0.584	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/rushmore.BLUR.5.png	0.342	gaussian blur	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.1.png	0.875	contrast	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.2.png	0.71	contrast	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.3.png	0.607	contrast	landscape	invalid	invalid
+dst_imgs/contrast/rushmore.contrast.4.png	0.494	contrast	landscape	invalid	invalid
+dst_imgs/awgn/redwood.AWGN.1.png	0.949	white noise	landscape	invalid	invalid
+dst_imgs/awgn/redwood.AWGN.2.png	0.812	white noise	landscape	invalid	invalid
+dst_imgs/awgn/redwood.AWGN.3.png	0.677	white noise	landscape	invalid	invalid
+dst_imgs/awgn/redwood.AWGN.4.png	0.568	white noise	landscape	invalid	invalid
+dst_imgs/awgn/redwood.AWGN.5.png	0.455	white noise	landscape	invalid	invalid
+dst_imgs/jpeg/redwood.JPEG.1.png	0.973	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/redwood.JPEG.2.png	0.901	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/redwood.JPEG.3.png	0.575	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/redwood.JPEG.4.png	0.255	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg/redwood.JPEG.5.png	0.154	jpeg compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/redwood.jpeg2000.1.png	0.968	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/redwood.jpeg2000.2.png	0.818	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/redwood.jpeg2000.3.png	0.566	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/redwood.jpeg2000.4.png	0.319	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/jpeg2000/redwood.jpeg2000.5.png	0.114	jpeg2000 compression	landscape	invalid	invalid
+dst_imgs/fnoise/redwood.fnoise.1.png	0.905	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/redwood.fnoise.2.png	0.69	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/redwood.fnoise.3.png	0.476	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/redwood.fnoise.4.png	0.347	fnoise	landscape	invalid	invalid
+dst_imgs/fnoise/redwood.fnoise.5.png	0.248	fnoise	landscape	invalid	invalid
+dst_imgs/blur/redwood.BLUR.1.png	0.912	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/redwood.BLUR.2.png	0.77	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/redwood.BLUR.3.png	0.619	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/redwood.BLUR.4.png	0.431	gaussian blur	landscape	invalid	invalid
+dst_imgs/blur/redwood.BLUR.5.png	0.154	gaussian blur	landscape	invalid	invalid
+dst_imgs/contrast/redwood.contrast.1.png	0.926	contrast	landscape	invalid	invalid
+dst_imgs/contrast/redwood.contrast.2.png	0.802	contrast	landscape	invalid	invalid
+dst_imgs/contrast/redwood.contrast.3.png	0.61	contrast	landscape	invalid	invalid
+dst_imgs/contrast/redwood.contrast.4.png	0.529	contrast	landscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.1.png	0.968	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.2.png	0.875	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.3.png	0.755	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.4.png	0.627	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/aerial_city.AWGN.5.png	0.499	white noise	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.1.png	0.97	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.2.png	0.935	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.3.png	0.611	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.4.png	0.393	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/aerial_city.JPEG.5.png	0.181	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.1.png	0.973	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.2.png	0.809	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.3.png	0.514	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.4.png	0.246	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/aerial_city.jpeg2000.5.png	0.044	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.1.png	0.874	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.2.png	0.681	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.3.png	0.525	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.4.png	0.399	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/aerial_city.fnoise.5.png	0.292	fnoise	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.1.png	0.975	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.2.png	0.886	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.3.png	0.741	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.4.png	0.536	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/aerial_city.BLUR.5.png	0.104	gaussian blur	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.1.png	0.962	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.2.png	0.837	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.3.png	0.633	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/aerial_city.contrast.4.png	0.547	contrast	cityscape	invalid	invalid
+dst_imgs/awgn/elk.AWGN.1.png	0.967	white noise	animal	invalid	invalid
+dst_imgs/awgn/elk.AWGN.2.png	0.935	white noise	animal	invalid	invalid
+dst_imgs/awgn/elk.AWGN.3.png	0.828	white noise	animal	invalid	invalid
+dst_imgs/awgn/elk.AWGN.4.png	0.763	white noise	animal	invalid	invalid
+dst_imgs/awgn/elk.AWGN.5.png	0.642	white noise	animal	invalid	invalid
+dst_imgs/jpeg/elk.JPEG.1.png	0.968	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/elk.JPEG.2.png	0.932	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/elk.JPEG.3.png	0.78	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/elk.JPEG.4.png	0.45	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/elk.JPEG.5.png	0.29	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg2000/elk.jpeg2000.1.png	0.973	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/elk.jpeg2000.2.png	0.926	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/elk.jpeg2000.3.png	0.755	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/elk.jpeg2000.4.png	0.454	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/elk.jpeg2000.5.png	0.189	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/fnoise/elk.fnoise.1.png	0.954	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/elk.fnoise.2.png	0.753	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/elk.fnoise.3.png	0.629	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/elk.fnoise.4.png	0.516	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/elk.fnoise.5.png	0.355	fnoise	animal	invalid	invalid
+dst_imgs/blur/elk.BLUR.1.png	0.956	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/elk.BLUR.2.png	0.878	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/elk.BLUR.3.png	0.753	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/elk.BLUR.4.png	0.595	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/elk.BLUR.5.png	0.237	gaussian blur	animal	invalid	invalid
+dst_imgs/contrast/elk.contrast.1.png	0.924	contrast	animal	invalid	invalid
+dst_imgs/contrast/elk.contrast.2.png	0.8	contrast	animal	invalid	invalid
+dst_imgs/contrast/elk.contrast.3.png	0.601	contrast	animal	invalid	invalid
+dst_imgs/awgn/veggies.AWGN.1.png	0.982	white noise	plant	invalid	invalid
+dst_imgs/awgn/veggies.AWGN.2.png	0.902	white noise	plant	invalid	invalid
+dst_imgs/awgn/veggies.AWGN.3.png	0.786	white noise	plant	invalid	invalid
+dst_imgs/awgn/veggies.AWGN.4.png	0.653	white noise	plant	invalid	invalid
+dst_imgs/awgn/veggies.AWGN.5.png	0.528	white noise	plant	invalid	invalid
+dst_imgs/jpeg/veggies.JPEG.1.png	0.962	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/veggies.JPEG.2.png	0.892	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/veggies.JPEG.3.png	0.771	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/veggies.JPEG.4.png	0.41	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg/veggies.JPEG.5.png	0.27	jpeg compression	plant	invalid	invalid
+dst_imgs/jpeg2000/veggies.jpeg2000.1.png	0.955	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/veggies.jpeg2000.2.png	0.886	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/veggies.jpeg2000.3.png	0.683	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/veggies.jpeg2000.4.png	0.452	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/jpeg2000/veggies.jpeg2000.5.png	0.228	jpeg2000 compression	plant	invalid	invalid
+dst_imgs/fnoise/veggies.fnoise.1.png	0.935	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/veggies.fnoise.2.png	0.797	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/veggies.fnoise.3.png	0.629	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/veggies.fnoise.4.png	0.4	fnoise	plant	invalid	invalid
+dst_imgs/fnoise/veggies.fnoise.5.png	0.317	fnoise	plant	invalid	invalid
+dst_imgs/blur/veggies.BLUR.1.png	0.944	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/veggies.BLUR.2.png	0.794	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/veggies.BLUR.3.png	0.651	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/veggies.BLUR.4.png	0.479	gaussian blur	plant	invalid	invalid
+dst_imgs/blur/veggies.BLUR.5.png	0.281	gaussian blur	plant	invalid	invalid
+dst_imgs/contrast/veggies.contrast.1.png	0.944	contrast	plant	invalid	invalid
+dst_imgs/contrast/veggies.contrast.2.png	0.797	contrast	plant	invalid	invalid
+dst_imgs/contrast/veggies.contrast.3.png	0.668	contrast	plant	invalid	invalid
+dst_imgs/contrast/veggies.contrast.4.png	0.615	contrast	plant	invalid	invalid
+dst_imgs/awgn/geckos.AWGN.1.png	0.971	white noise	animal	invalid	invalid
+dst_imgs/awgn/geckos.AWGN.2.png	0.94	white noise	animal	invalid	invalid
+dst_imgs/awgn/geckos.AWGN.3.png	0.883	white noise	animal	invalid	invalid
+dst_imgs/awgn/geckos.AWGN.4.png	0.798	white noise	animal	invalid	invalid
+dst_imgs/awgn/geckos.AWGN.5.png	0.664	white noise	animal	invalid	invalid
+dst_imgs/jpeg/geckos.JPEG.1.png	0.978	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/geckos.JPEG.2.png	0.953	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/geckos.JPEG.3.png	0.865	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/geckos.JPEG.4.png	0.537	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg/geckos.JPEG.5.png	0.266	jpeg compression	animal	invalid	invalid
+dst_imgs/jpeg2000/geckos.jpeg2000.1.png	0.978	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/geckos.jpeg2000.2.png	0.956	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/geckos.jpeg2000.3.png	0.83	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/geckos.jpeg2000.4.png	0.623	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/jpeg2000/geckos.jpeg2000.5.png	0.383	jpeg2000 compression	animal	invalid	invalid
+dst_imgs/fnoise/geckos.fnoise.1.png	0.996	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/geckos.fnoise.2.png	0.81	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/geckos.fnoise.3.png	0.662	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/geckos.fnoise.4.png	0.549	fnoise	animal	invalid	invalid
+dst_imgs/fnoise/geckos.fnoise.5.png	0.39	fnoise	animal	invalid	invalid
+dst_imgs/blur/geckos.BLUR.1.png	0.987	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/geckos.BLUR.2.png	0.932	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/geckos.BLUR.3.png	0.769	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/geckos.BLUR.4.png	0.659	gaussian blur	animal	invalid	invalid
+dst_imgs/blur/geckos.BLUR.5.png	0.43	gaussian blur	animal	invalid	invalid
+dst_imgs/contrast/geckos.contrast.1.png	0.895	contrast	animal	invalid	invalid
+dst_imgs/contrast/geckos.contrast.2.png	0.761	contrast	animal	invalid	invalid
+dst_imgs/contrast/geckos.contrast.3.png	0.548	contrast	animal	invalid	invalid
+dst_imgs/awgn/sunsetcolor.AWGN.1.png	0.961	white noise	landscape	night	invalid
+dst_imgs/awgn/sunsetcolor.AWGN.2.png	0.794	white noise	landscape	night	invalid
+dst_imgs/awgn/sunsetcolor.AWGN.3.png	0.698	white noise	landscape	night	invalid
+dst_imgs/awgn/sunsetcolor.AWGN.4.png	0.591	white noise	landscape	night	invalid
+dst_imgs/awgn/sunsetcolor.AWGN.5.png	0.485	white noise	landscape	night	invalid
+dst_imgs/jpeg/sunsetcolor.JPEG.1.png	0.969	jpeg compression	landscape	night	invalid
+dst_imgs/jpeg/sunsetcolor.JPEG.2.png	0.564	jpeg compression	landscape	night	invalid
+dst_imgs/jpeg/sunsetcolor.JPEG.3.png	0.307	jpeg compression	landscape	night	invalid
+dst_imgs/jpeg/sunsetcolor.JPEG.4.png	0.115	jpeg compression	landscape	night	invalid
+dst_imgs/jpeg/sunsetcolor.JPEG.5.png	0.082	jpeg compression	landscape	night	invalid
+dst_imgs/jpeg2000/sunsetcolor.jpeg2000.1.png	0.976	jpeg2000 compression	landscape	night	invalid
+dst_imgs/jpeg2000/sunsetcolor.jpeg2000.2.png	0.699	jpeg2000 compression	landscape	night	invalid
+dst_imgs/jpeg2000/sunsetcolor.jpeg2000.3.png	0.345	jpeg2000 compression	landscape	night	invalid
+dst_imgs/jpeg2000/sunsetcolor.jpeg2000.4.png	0.149	jpeg2000 compression	landscape	night	invalid
+dst_imgs/jpeg2000/sunsetcolor.jpeg2000.5.png	0.0	jpeg2000 compression	landscape	night	invalid
+dst_imgs/fnoise/sunsetcolor.fnoise.1.png	0.881	fnoise	landscape	night	invalid
+dst_imgs/fnoise/sunsetcolor.fnoise.2.png	0.661	fnoise	landscape	night	invalid
+dst_imgs/fnoise/sunsetcolor.fnoise.3.png	0.469	fnoise	landscape	night	invalid
+dst_imgs/fnoise/sunsetcolor.fnoise.4.png	0.383	fnoise	landscape	night	invalid
+dst_imgs/fnoise/sunsetcolor.fnoise.5.png	0.279	fnoise	landscape	night	invalid
+dst_imgs/blur/sunsetcolor.BLUR.1.png	0.927	gaussian blur	landscape	night	invalid
+dst_imgs/blur/sunsetcolor.BLUR.2.png	0.691	gaussian blur	landscape	night	invalid
+dst_imgs/blur/sunsetcolor.BLUR.3.png	0.274	gaussian blur	landscape	night	invalid
+dst_imgs/blur/sunsetcolor.BLUR.4.png	0.037	gaussian blur	landscape	night	invalid
+dst_imgs/blur/sunsetcolor.BLUR.5.png	0.001	gaussian blur	landscape	night	invalid
+dst_imgs/contrast/sunsetcolor.contrast.1.png	0.948	contrast	landscape	night	invalid
+dst_imgs/contrast/sunsetcolor.contrast.2.png	0.869	contrast	landscape	night	invalid
+dst_imgs/contrast/sunsetcolor.contrast.3.png	0.727	contrast	landscape	night	invalid
+dst_imgs/contrast/sunsetcolor.contrast.4.png	0.587	contrast	landscape	night	invalid
+dst_imgs/awgn/boston.AWGN.1.png	0.971	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/boston.AWGN.2.png	0.919	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/boston.AWGN.3.png	0.785	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/boston.AWGN.4.png	0.617	white noise	cityscape	invalid	invalid
+dst_imgs/awgn/boston.AWGN.5.png	0.528	white noise	cityscape	invalid	invalid
+dst_imgs/jpeg/boston.JPEG.1.png	1.0	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/boston.JPEG.2.png	0.95	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/boston.JPEG.3.png	0.672	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/boston.JPEG.4.png	0.263	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg/boston.JPEG.5.png	0.168	jpeg compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/boston.jpeg2000.1.png	1.0	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/boston.jpeg2000.2.png	0.882	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/boston.jpeg2000.3.png	0.611	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/boston.jpeg2000.4.png	0.303	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/jpeg2000/boston.jpeg2000.5.png	0.096	jpeg2000 compression	cityscape	invalid	invalid
+dst_imgs/fnoise/boston.fnoise.1.png	0.932	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/boston.fnoise.2.png	0.757	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/boston.fnoise.3.png	0.502	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/boston.fnoise.4.png	0.38	fnoise	cityscape	invalid	invalid
+dst_imgs/fnoise/boston.fnoise.5.png	0.276	fnoise	cityscape	invalid	invalid
+dst_imgs/blur/boston.BLUR.1.png	0.917	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/boston.BLUR.2.png	0.784	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/boston.BLUR.3.png	0.637	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/boston.BLUR.4.png	0.429	gaussian blur	cityscape	invalid	invalid
+dst_imgs/blur/boston.BLUR.5.png	0.087	gaussian blur	cityscape	invalid	invalid
+dst_imgs/contrast/boston.contrast.1.png	0.883	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/boston.contrast.2.png	0.661	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/boston.contrast.3.png	0.395	contrast	cityscape	invalid	invalid
+dst_imgs/contrast/boston.contrast.4.png	0.31	contrast	cityscape	invalid	invalid

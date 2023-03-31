@@ -1,0 +1,87 @@
+dst_imgs/awgn/1600.AWGN.1.png	0.938	white noise	cityscape	human	plant
+dst_imgs/awgn/1600.AWGN.2.png	0.794	white noise	cityscape	human	plant
+dst_imgs/awgn/1600.AWGN.3.png	0.738	white noise	cityscape	human	plant
+dst_imgs/awgn/1600.AWGN.4.png	0.625	white noise	cityscape	human	plant
+dst_imgs/awgn/1600.AWGN.5.png	0.533	white noise	cityscape	human	plant
+dst_imgs/jpeg/1600.JPEG.1.png	0.987	jpeg compression	cityscape	human	plant
+dst_imgs/jpeg/1600.JPEG.2.png	0.931	jpeg compression	cityscape	human	plant
+dst_imgs/jpeg/1600.JPEG.3.png	0.803	jpeg compression	cityscape	human	plant
+dst_imgs/jpeg/1600.JPEG.4.png	0.499	jpeg compression	cityscape	human	plant
+dst_imgs/jpeg/1600.JPEG.5.png	0.313	jpeg compression	cityscape	human	plant
+dst_imgs/jpeg2000/1600.jpeg2000.1.png	0.988	jpeg2000 compression	cityscape	human	plant
+dst_imgs/jpeg2000/1600.jpeg2000.2.png	0.865	jpeg2000 compression	cityscape	human	plant
+dst_imgs/jpeg2000/1600.jpeg2000.3.png	0.636	jpeg2000 compression	cityscape	human	plant
+dst_imgs/jpeg2000/1600.jpeg2000.4.png	0.424	jpeg2000 compression	cityscape	human	plant
+dst_imgs/jpeg2000/1600.jpeg2000.5.png	0.173	jpeg2000 compression	cityscape	human	plant
+dst_imgs/fnoise/1600.fnoise.1.png	0.948	fnoise	cityscape	human	plant
+dst_imgs/fnoise/1600.fnoise.2.png	0.747	fnoise	cityscape	human	plant
+dst_imgs/fnoise/1600.fnoise.3.png	0.624	fnoise	cityscape	human	plant
+dst_imgs/fnoise/1600.fnoise.4.png	0.51	fnoise	cityscape	human	plant
+dst_imgs/fnoise/1600.fnoise.5.png	0.435	fnoise	cityscape	human	plant
+dst_imgs/blur/1600.BLUR.1.png	0.957	gaussian blur	cityscape	human	plant
+dst_imgs/blur/1600.BLUR.2.png	0.858	gaussian blur	cityscape	human	plant
+dst_imgs/blur/1600.BLUR.3.png	0.659	gaussian blur	cityscape	human	plant
+dst_imgs/blur/1600.BLUR.4.png	0.529	gaussian blur	cityscape	human	plant
+dst_imgs/blur/1600.BLUR.5.png	0.25	gaussian blur	cityscape	human	plant
+dst_imgs/contrast/1600.contrast.1.png	0.944	contrast	cityscape	human	plant
+dst_imgs/contrast/1600.contrast.2.png	0.799	contrast	cityscape	human	plant
+dst_imgs/contrast/1600.contrast.3.png	0.69	contrast	cityscape	human	plant
+dst_imgs/contrast/1600.contrast.4.png	0.629	contrast	cityscape	human	plant
+dst_imgs/awgn/woman.AWGN.1.png	0.948	white noise	human	plant	invalid
+dst_imgs/awgn/woman.AWGN.2.png	0.803	white noise	human	plant	invalid
+dst_imgs/awgn/woman.AWGN.3.png	0.711	white noise	human	plant	invalid
+dst_imgs/awgn/woman.AWGN.4.png	0.591	white noise	human	plant	invalid
+dst_imgs/awgn/woman.AWGN.5.png	0.51	white noise	human	plant	invalid
+dst_imgs/jpeg/woman.JPEG.1.png	0.969	jpeg compression	human	plant	invalid
+dst_imgs/jpeg/woman.JPEG.2.png	0.881	jpeg compression	human	plant	invalid
+dst_imgs/jpeg/woman.JPEG.3.png	0.652	jpeg compression	human	plant	invalid
+dst_imgs/jpeg/woman.JPEG.4.png	0.379	jpeg compression	human	plant	invalid
+dst_imgs/jpeg/woman.JPEG.5.png	0.217	jpeg compression	human	plant	invalid
+dst_imgs/jpeg2000/woman.jpeg2000.1.png	0.958	jpeg2000 compression	human	plant	invalid
+dst_imgs/jpeg2000/woman.jpeg2000.2.png	0.878	jpeg2000 compression	human	plant	invalid
+dst_imgs/jpeg2000/woman.jpeg2000.3.png	0.597	jpeg2000 compression	human	plant	invalid
+dst_imgs/jpeg2000/woman.jpeg2000.4.png	0.359	jpeg2000 compression	human	plant	invalid
+dst_imgs/jpeg2000/woman.jpeg2000.5.png	0.103	jpeg2000 compression	human	plant	invalid
+dst_imgs/fnoise/woman.fnoise.1.png	0.901	fnoise	human	plant	invalid
+dst_imgs/fnoise/woman.fnoise.2.png	0.738	fnoise	human	plant	invalid
+dst_imgs/fnoise/woman.fnoise.3.png	0.51	fnoise	human	plant	invalid
+dst_imgs/fnoise/woman.fnoise.4.png	0.362	fnoise	human	plant	invalid
+dst_imgs/fnoise/woman.fnoise.5.png	0.258	fnoise	human	plant	invalid
+dst_imgs/blur/woman.BLUR.1.png	0.914	gaussian blur	human	plant	invalid
+dst_imgs/blur/woman.BLUR.2.png	0.802	gaussian blur	human	plant	invalid
+dst_imgs/blur/woman.BLUR.3.png	0.58	gaussian blur	human	plant	invalid
+dst_imgs/blur/woman.BLUR.4.png	0.384	gaussian blur	human	plant	invalid
+dst_imgs/blur/woman.BLUR.5.png	0.166	gaussian blur	human	plant	invalid
+dst_imgs/contrast/woman.contrast.1.png	0.932	contrast	human	plant	invalid
+dst_imgs/contrast/woman.contrast.2.png	0.827	contrast	human	plant	invalid
+dst_imgs/contrast/woman.contrast.3.png	0.591	contrast	human	plant	invalid
+dst_imgs/contrast/woman.contrast.4.png	0.531	contrast	human	plant	invalid
+dst_imgs/awgn/butter_flower.AWGN.1.png	0.973	white noise	animal	plant	invalid
+dst_imgs/awgn/butter_flower.AWGN.2.png	0.911	white noise	animal	plant	invalid
+dst_imgs/awgn/butter_flower.AWGN.3.png	0.748	white noise	animal	plant	invalid
+dst_imgs/awgn/butter_flower.AWGN.4.png	0.565	white noise	animal	plant	invalid
+dst_imgs/awgn/butter_flower.AWGN.5.png	0.455	white noise	animal	plant	invalid
+dst_imgs/jpeg/butter_flower.JPEG.1.png	0.977	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/butter_flower.JPEG.2.png	0.969	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/butter_flower.JPEG.3.png	0.59	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/butter_flower.JPEG.4.png	0.301	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg/butter_flower.JPEG.5.png	0.192	jpeg compression	animal	plant	invalid
+dst_imgs/jpeg2000/butter_flower.jpeg2000.1.png	0.972	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/butter_flower.jpeg2000.2.png	0.857	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/butter_flower.jpeg2000.3.png	0.54	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/butter_flower.jpeg2000.4.png	0.221	jpeg2000 compression	animal	plant	invalid
+dst_imgs/jpeg2000/butter_flower.jpeg2000.5.png	0.074	jpeg2000 compression	animal	plant	invalid
+dst_imgs/fnoise/butter_flower.fnoise.1.png	0.972	fnoise	animal	plant	invalid
+dst_imgs/fnoise/butter_flower.fnoise.2.png	0.805	fnoise	animal	plant	invalid
+dst_imgs/fnoise/butter_flower.fnoise.3.png	0.618	fnoise	animal	plant	invalid
+dst_imgs/fnoise/butter_flower.fnoise.4.png	0.451	fnoise	animal	plant	invalid
+dst_imgs/fnoise/butter_flower.fnoise.5.png	0.273	fnoise	animal	plant	invalid
+dst_imgs/blur/butter_flower.BLUR.1.png	0.922	gaussian blur	animal	plant	invalid
+dst_imgs/blur/butter_flower.BLUR.2.png	0.798	gaussian blur	animal	plant	invalid
+dst_imgs/blur/butter_flower.BLUR.3.png	0.518	gaussian blur	animal	plant	invalid
+dst_imgs/blur/butter_flower.BLUR.4.png	0.221	gaussian blur	animal	plant	invalid
+dst_imgs/blur/butter_flower.BLUR.5.png	0.047	gaussian blur	animal	plant	invalid
+dst_imgs/contrast/butter_flower.contrast.1.png	0.93	contrast	animal	plant	invalid
+dst_imgs/contrast/butter_flower.contrast.2.png	0.744	contrast	animal	plant	invalid
+dst_imgs/contrast/butter_flower.contrast.3.png	0.485	contrast	animal	plant	invalid
+dst_imgs/contrast/butter_flower.contrast.4.png	0.385	contrast	animal	plant	invalid
