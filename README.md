@@ -8,6 +8,37 @@ We aim at advancing blind image quality assessment (BIQA), which predicts the hu
 
 ![image](https://github.com/zwx8981/LIQE/blob/main/clip_biqa.png)
 
+# Requirement
+
+torch 1.8+
+
+torchvision
+
+Python 3
+
+pip install clip
+
+# Training on 10 splits
+
+python train_unique_clip_weight.py
+
+# Evaluation on test-sets
+
+python BIQA_benchmark.py
+
+# Demo
+
+python demo.py
+
+# Pre-trained weights
+
+Google Drive: 
+
+https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=sharing
+
+百度网盘： 
+
+链接: https://pan.baidu.com/s/1KHjj7T8y2H_eKE6w7HnWJA 提取码: 2b8v 
 
 # Citation
 @inproceedings{zhang2023liqe,  
@@ -17,5 +48,3 @@ We aim at advancing blind image quality assessment (BIQA), which predicts the hu
   year={2023}
 }
 
-
-Source code will be released soon.
