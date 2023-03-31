@@ -85,7 +85,7 @@ joint_texts = torch.cat([clip.tokenize(f"a photo of a {c} with {d} artifacts, wh
                          in product(qualitys, scenes, dists_map)]).to(device)
 
 
-img1 = 'data/68.bmp'
+img1 = 'data/6898804586.jpg'
 img2 = 'data/I02_01_03.png'
 
 print('###Image loading###')
