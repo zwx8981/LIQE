@@ -19,19 +19,19 @@ Python 3
 pip install clip
 
 # Training on 10 splits
-'''bash
+```bash
 python train_unique_clip_weight.py
-'''
+```
 
 # Evaluation on test-sets
-'''bash
+```bash
 python BIQA_benchmark.py
-'''
+```
 
 # Demo
-'''bash
+```bash
 python demo.py
-'''
+```
 
 # Pre-trained weights
 
@@ -44,12 +44,12 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 链接: https://pan.baidu.com/s/1KHjj7T8y2H_eKE6w7HnWJA 提取码: 2b8v 
 
 # Citation
-bash'''
+```bash
 @inproceedings{zhang2023liqe,  
   title={Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective},  
   author={Zhang, Weixia and Zhai, Guangtao and Wei, Ying and Yang, Xiaokang and Ma, Kede},  
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},  
   year={2023}
 }
-'''
+```
 
