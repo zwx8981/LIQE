@@ -27,7 +27,7 @@ class GradCosine(WeightingMethod):
         return torch.cat(tuple(g.reshape(-1, ) for i, g in enumerate(grad)), axis=0)
 
     def get_grad_cos_sim(self, grad1, grad2):
-        """Computes cosine simillarity of gradients after flattening of tensors.
+        """Computes cosine similarity of gradients after flattening of tensors.
         """
 
         flat_grad1 = self._flattening(grad1)
