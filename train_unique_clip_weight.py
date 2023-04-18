@@ -728,10 +728,8 @@ for session in range(0,10):
     kadid10k_val_loader = set_dataset(kadid10k_val_csv, 16, kadid10k_set, num_workers, preprocess2, 15, True)
     kadid10k_test_loader = set_dataset(kadid10k_test_csv, 16, kadid10k_set, num_workers, preprocess2, 15, True)
 
-    # train_loaders = [live_train_loader, csiq_train_loader, bid_train_loader, clive_train_loader,
-    #                  koniq10k_train_loader, kadid10k_train_loader]
-
-    train_loaders = [koniq10k_train_loader]
+    train_loaders = [live_train_loader, csiq_train_loader, bid_train_loader, clive_train_loader,
+                     koniq10k_train_loader, kadid10k_train_loader]
 
     result_pkl = {}
     for epoch in range(0, num_epoch):
