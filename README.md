@@ -30,9 +30,15 @@ python train_unique_clip_weight.py
 python BIQA_benchmark.py
 ```
 
-# Demo
+# Demo: detailed pipeline
 ```bash
 python demo.py
+```
+
+
+# Demo2: import LIQE as an independent module and perform inference
+```bash
+python demo2.py
 ```
 
 # Pre-trained weights
