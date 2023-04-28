@@ -16,7 +16,9 @@ torchvision
 
 Python 3
 
-pip install clip
+pip install ftfy regex tqdm
+
+pip install git+https://github.com/openai/CLIP.git
 
 # Training on 10 splits
 ```bash
