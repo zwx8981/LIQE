@@ -50,7 +50,7 @@ class LIQE(nn.Module):
     def __init__(self, ckpt, device):
         super(LIQE, self).__init__()
         self.model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
-        checkpoint = torch.load(ckpt)
+        checkpoint = torch.load(ckpt, map_location=device)
         self.model.load_state_dict(checkpoint)
         joint_texts = torch.cat(
             [clip.tokenize(f"a photo of a {c} with {d} artifacts, which is of {q} quality") for q, c, d
@@ -61,8 +61,10 @@ class LIQE(nn.Module):
         self.step = 32
         self.num_patch = 15
         self.normalize = Normalize((0.48145466, 0.4578275, 0.40821073), (0.26862954, 0.26130258, 0.27577711))
+        self.device = device
 
     def forward(self, x):
+        x = x.to(self.device)
         batch_size = x.size(0)
         x = self.normalize(x)
         x = x.unfold(2, 224, self.step).unfold(3, 224, self.step).permute(2, 3, 0, 1, 4, 5).reshape(-1, 3, 224, 224)
@@ -87,15 +89,23 @@ class LIQE(nn.Module):
 
         logits_per_image = logits_per_image.view(batch_size, self.num_patch, -1)
         logits_per_image = logits_per_image.mean(1)
-        logits_per_image = F.softmax(logits_per_image/4, dim=1)
+        logits_per_image = F.softmax(logits_per_image, dim=1)
 
         logits_per_image = logits_per_image.view(-1, len(qualitys), len(scenes), len(dists_map))
         logits_quality = logits_per_image.sum(3).sum(2)
 
-        q = 1 * logits_quality[:, 0] + 2 * logits_quality[:, 1] + 3 * logits_quality[:, 2] + \
+        similarity_scene = logits_per_image.sum(3).sum(1)
+        similarity_distortion = logits_per_image.sum(1).sum(1)
+        distortion_index = similarity_distortion.argmax(dim=1)
+        scene_index = similarity_scene.argmax(dim=1)
+
+        scene = scenes[scene_index]
+        distortion = dists_map[distortion_index]
+
+        quality = 1 * logits_quality[:, 0] + 2 * logits_quality[:, 1] + 3 * logits_quality[:, 2] + \
                              4 * logits_quality[:, 3] + 5 * logits_quality[:, 4]
 
-        return q
+        return quality, scene, distortion
 
 if __name__ == '__main__':
     device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
@@ -103,4 +113,4 @@ if __name__ == '__main__':
     liqe = LIQE(ckpt, device)
 
     x = torch.randn(1,3,512,512).to(device)
-    q = liqe(x)
+    q, s, d = liqe(x)
