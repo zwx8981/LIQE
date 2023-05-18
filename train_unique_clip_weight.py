@@ -298,7 +298,6 @@ def train(model, best_result, best_epoch, srcc_dict, scene_dict, type_dict):
             )
         else:
             total_loss.backward()
-            optimizer.zero_grad()
             continue
 
         if device == "cpu":
