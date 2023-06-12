@@ -57,6 +57,7 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
   title={Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective},  
   author={Zhang, Weixia and Zhai, Guangtao and Wei, Ying and Yang, Xiaokang and Ma, Kede},  
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},  
+  pages={14071--14081},
   year={2023}
 }
 ```
