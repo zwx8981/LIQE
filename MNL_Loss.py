@@ -35,7 +35,7 @@ class Fidelity_Loss_distortion(torch.nn.Module):
             loss_i = torch.sqrt(p_i * g_i + esp)
             loss = loss + loss_i
         loss = 1 - loss
-        loss = loss / p.size(1)
+        #loss = loss / p.size(1)
         return torch.mean(loss)
 
 
