@@ -36,7 +36,7 @@ python demo.py
 ```
 
 
-# Demo2: import LIQE as an independent module and perform inference
+# Demo2: import LIQE as a standalone module and perform inference
 ```bash
 python demo2.py
 ```
