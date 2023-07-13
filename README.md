@@ -63,7 +63,7 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 | Paq2PiQ     | 0.5023     | [PaQ2PiQ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf) |
 | CLIPIQA     | 0.6580     | [CLIPIQA](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
 | CLIPIQA+     | 0.6831     | [CLIPIQA+](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
-| LIQE     | **0.7212**     | [LIQE](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf) |
+| LIQE (Ours)     | **0.7212**     | [LIQE](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf) |
 
 # Citation
 ```bash
