@@ -63,6 +63,7 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 | PaQ-2-PiQ     | 0.5023     | [PaQ2PiQ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf) |
 | CLIPIQA     | 0.6580     | [CLIPIQA](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
 | CLIPIQA+     | 0.6831     | [CLIPIQA+](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
+| MANIQA     | 0.6950     | [MANIQA](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.pdf) |
 | LIQE (Ours)     | **0.7212**     | [LIQE](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf) |
 
 # Citation
