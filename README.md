@@ -56,6 +56,7 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 | BIQA Model      | SRCC     | Paper     |
 | ---------- | :-----------:  | :-----------: |
 | DBCNN     | 0.6454     | [DBCNN](https://ieeexplore.ieee.org/abstract/document/8576582) |
+| HyperIQA     | 0.6291     | [HyperIQA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) |
 
 # Citation
 ```bash
