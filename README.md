@@ -51,12 +51,19 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 
 链接: https://pan.baidu.com/s/1KHjj7T8y2H_eKE6w7HnWJA 提取码: 2b8v 
 
-# New! Zero-shot (cross-database) performance on the AIGC dataset ([*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf))
+# New! Zero-shot (cross-database) performance on the AIGC dataset ([*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf)) (perception subset)
 
 | BIQA Model      | SRCC     | Paper     |
 | ---------- | :-----------:  | :-----------: |
-| DBCNN     | 0.6454     | [DBCNN](https://ieeexplore.ieee.org/abstract/document/8576582) |
+| DBCNN     | 0.6454     | [DBCNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576582) |
 | HyperIQA     | 0.6291     | [HyperIQA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) |
+| TreS     | 0.6460     | [TreS](https://openaccess.thecvf.com/content/WACV2022/papers/Golestaneh_No-Reference_Image_Quality_Assessment_via_Transformers_Relative_Ranking_and_Self-Consistency_WACV_2022_paper.pdf) |
+| UNIQUE     | 0.6659     | [UNIQUE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369977) |
+| MUSIQ     | 0.6294     | [MUSIQ](https://openaccess.thecvf.com/content/ICCV2021/papers/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.pdf) |
+| Paq2PiQ     | 0.5023     | [PaQ2PiQ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf) |
+| CLIPIQA     | 0.6580     | [CLIPIQA](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
+| CLIPIQA+     | 0.6831     | [CLIPIQA+](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
+| LIQE     | **0.7212**     | [CLIPIQA+](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf) |
 
 # Citation
 ```bash
