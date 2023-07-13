@@ -51,11 +51,11 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 
 链接: https://pan.baidu.com/s/1KHjj7T8y2H_eKE6w7HnWJA 提取码: 2b8v 
 
-# New! Zero-shot (cross-database) performance on the AIGC dataset ([*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf)
+# New! Zero-shot (cross-database) performance on the AIGC dataset ([*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf))
 
 | BIQA Model      | SRCC     | Paper     |
 | ---------- | :-----------:  | :-----------: |
-| DBCNN     | 0.6454     | [](https://ieeexplore.ieee.org/abstract/document/8576582) |
+| DBCNN     | 0.6454     | [DBCNN](https://ieeexplore.ieee.org/abstract/document/8576582) |
 
 # Citation
 ```bash
