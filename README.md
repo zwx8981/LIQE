@@ -53,18 +53,18 @@ https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=shari
 
 ## New! Zero-shot (cross-database) performance (SRCC) on the AIGC datasets.
 
-| BIQA Model      | [*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf)   |  [*AGIQA-1K*](https://arxiv.org/pdf/2303.12618.pdf)  | Paper     | 
-| ---------- | :-----------:  | :-----------: | :-----------: |
-| DBCNN     | 0.6454     | 0.5133 | [DBCNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576582) |
-| HyperIQA     | 0.6291  |  0.5253 | [HyperIQA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) |
-| TReS     | 0.6460   | 0.5101 | [TReS](https://openaccess.thecvf.com/content/WACV2022/papers/Golestaneh_No-Reference_Image_Quality_Assessment_via_Transformers_Relative_Ranking_and_Self-Consistency_WACV_2022_paper.pdf) |
-| UNIQUE     | 0.6659  |  0.4596 | [UNIQUE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369977) |
-| MUSIQ     | 0.6294   | 0.5254 | [MUSIQ](https://openaccess.thecvf.com/content/ICCV2021/papers/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.pdf) |
-| PaQ-2-PiQ     | 0.5023  |  0.5378 | [PaQ2PiQ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf) |
-| CLIPIQA     | 0.6580   | 0.3411 | [CLIPIQA](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
-| CLIPIQA+     | 0.6831   | 0.4461 | [CLIPIQA+](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
-| MANIQA     | **0.6950**   | **0.6180** | [MANIQA](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.pdf) |
-| LIQE (Ours)     | **0.7212**     | **0.5785** | [LIQE](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf) |
+| BIQA Model      | [*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf)   |  [*AGIQA-1K*](https://arxiv.org/pdf/2303.12618.pdf)  |  [*SJTU-H3D*](https://arxiv.org/pdf/2307.02808.pdf) | Paper     | 
+| ---------- | :-----------:  | :-----------: | :-----------: | :-----------: |
+| DBCNN     | 0.6454     | 0.5133 | 0.4560 | [DBCNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8576582) |
+| HyperIQA     | 0.6291  |  0.5253 | 0.2696 | [HyperIQA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) |
+| TReS     | 0.6460   | 0.5101 | 0.2700 | [TReS](https://openaccess.thecvf.com/content/WACV2022/papers/Golestaneh_No-Reference_Image_Quality_Assessment_via_Transformers_Relative_Ranking_and_Self-Consistency_WACV_2022_paper.pdf) |
+| UNIQUE     | 0.6659  |  0.4596 | **0.7523** | [UNIQUE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369977) |
+| MUSIQ     | 0.6294   | 0.5254 | 0.5313 | [MUSIQ](https://openaccess.thecvf.com/content/ICCV2021/papers/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.pdf) |
+| PaQ-2-PiQ     | 0.5023  |  0.5378 | 0.2683 | [PaQ2PiQ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ying_From_Patches_to_Pictures_PaQ-2-PiQ_Mapping_the_Perceptual_Space_of_CVPR_2020_paper.pdf) |
+| CLIPIQA     | 0.6580   | 0.3411 | -0.0793 | [CLIPIQA](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
+| CLIPIQA+     | 0.6831   | 0.4461 | 0.5567 | [CLIPIQA+](https://ojs.aaai.org/index.php/AAAI/article/view/25353) |
+| MANIQA     | **0.6950**   | **0.6180** | 0.4523 |[MANIQA](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.pdf) |
+| LIQE (Ours)     | **0.7212**     | **0.5785** | **0.6716** | [LIQE](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Blind_Image_Quality_Assessment_via_Vision-Language_Correspondence_A_Multitask_Learning_CVPR_2023_paper.pdf) |
 
 # Citation
 ```bash
