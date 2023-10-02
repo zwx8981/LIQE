@@ -612,7 +612,7 @@ def eval(loader, phase, dataset):
 
     srcc = scipy.stats.mstats.spearmanr(x=q_mos, y=q_hat)[0]
 
-    #print_text = dataset + ':' + phase + ': ' + 'scene accuray:{}, distortion accuracy:{}, srcc:{}'.format(scene_acc, dist_acc, srcc)
+    #print_text = dataset + ':' + phase + ': ' + 'scene accuracy:{}, distortion accuracy:{}, srcc:{}'.format(scene_acc, dist_acc, srcc)
     print_text = dataset + ' ' + phase + ' finished'
     print(print_text)
 
@@ -674,7 +674,7 @@ for session in range(0,10):
     scene_dict2 = {'live': 0.0, 'csiq': 0.0, 'bid': 0.0, 'clive': 0.0, 'koniq10k': 0.0, 'kadid10k': 0.0}
     type_dict2 = {'live': 0.0, 'csiq': 0.0, 'bid': 0.0, 'clive': 0.0, 'koniq10k': 0.0, 'kadid10k': 0.0}
 
-    # distortionzz
+    # distortion
     srcc_dict3 = {'live': 0.0, 'csiq': 0.0, 'bid': 0.0, 'clive': 0.0, 'koniq10k': 0.0, 'kadid10k': 0.0}
     scene_dict3 = {'live': 0.0, 'csiq': 0.0, 'bid': 0.0, 'clive': 0.0, 'koniq10k': 0.0, 'kadid10k': 0.0}
     type_dict3 = {'live': 0.0, 'csiq': 0.0, 'bid': 0.0, 'clive': 0.0, 'koniq10k': 0.0, 'kadid10k': 0.0}

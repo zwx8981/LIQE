@@ -230,7 +230,7 @@ def eval(loader, phase, dataset):
 
     srcc = scipy.stats.mstats.spearmanr(x=q_mos, y=q_hat)[0]
 
-    #print_text = dataset + ':' + phase + ': ' + 'scene accuray:{}, distortion accuracy:{}, srcc:{}'.format(scene_acc, dist_acc, srcc)
+    #print_text = dataset + ':' + phase + ': ' + 'scene accuracy:{}, distortion accuracy:{}, srcc:{}'.format(scene_acc, dist_acc, srcc)
     print_text = dataset + ' ' + phase + ' finished'
     print(print_text)
 
@@ -261,7 +261,7 @@ def compute_metrics(y_pred, y):
     popt, _ = curve_fit(logistic_func, y_pred, y, p0=beta_init, maxfev=int(1e8))
     y_pred_logistic = logistic_func(y_pred, *popt)
 
-    # compute  PLCC RMSE
+    # compute PLCC RMSE
     PLCC = scipy.stats.pearsonr(y, y_pred_logistic)[0]
     RMSE = np.sqrt(mean_squared_error(y, y_pred_logistic))
     return SRCC, KRCC, PLCC, RMSE
@@ -279,7 +279,7 @@ for session in range(0,10):
     model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
     ckpt = os.path.join('../CLIP/checkpoints_final/checkpoints', str(session+1), 'quality_best_ckpt.pt')
     #ckpt = os.path.join('checkpoints', str(session + 1), 'quality_best_ckpt.pt')
-   # ckpt = os.path.join('checkpoints', str(session + 1), 'scene_best_ckpt.pt')
+    #ckpt = os.path.join('checkpoints', str(session + 1), 'scene_best_ckpt.pt')
     checkpoint = torch.load(ckpt)
     model.load_state_dict(checkpoint['model_state_dict'])
 
