@@ -41,6 +41,22 @@ python demo.py
 python demo2.py
 ```
 
+# IQA-PyTorch implemenatation
+[**IQA-PyTorch**](https://github.com/chaofengc/IQA-PyTorch) support LIQE now! Can be easily used as follows:
+
+```bash
+import pyiqa
+model = pyiqa.create('liqe', as_loss=False) #Re-trained on the official set of KonIQ-10k
+score = model(img_path)
+```
+or
+
+```bash
+import pyiqa
+model = pyiqa.create('liqe_mix', as_loss=False) #Trained on multiple datasets as in the paper.
+score = model(img_path)
+```
+
 # Pre-trained weights
 
 Google Drive: 
