@@ -45,14 +45,14 @@ python demo2.py
 
 ```bash
 import pyiqa
-model = pyiqa.create('liqe', as_loss=False) #Re-trained on the official set of KonIQ-10k
+model = pyiqa.create_metric('liqe', as_loss=False) #Re-trained on the official set of KonIQ-10k
 score = model(img_path)
 ```
 or
 
 ```bash
 import pyiqa
-model = pyiqa.create('liqe_mix', as_loss=False) #Trained on multiple datasets as in the paper.
+model = pyiqa.create_metric('liqe_mix', as_loss=False) #Trained on multiple datasets as in the paper.
 score = model(img_path)
 ```
 
