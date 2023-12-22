@@ -40,7 +40,17 @@ python demo.py
 python demo2.py
 ```
 
-# IQA-PyTorch implemenatation
+# Pre-trained weights
+
+Google Drive: 
+
+https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=sharing
+
+百度网盘： 
+
+链接: https://pan.baidu.com/s/1KHjj7T8y2H_eKE6w7HnWJA 提取码: 2b8v 
+
+# New! IQA-PyTorch implementation
 [**IQA-PyTorch**](https://github.com/chaofengc/IQA-PyTorch) supports LIQE now! Can be easily used as follows:
 
 ```bash
@@ -56,17 +66,7 @@ model = pyiqa.create_metric('liqe_mix', as_loss=False) #Trained on multiple data
 score = model(img_path)
 ```
 
-# Pre-trained weights
-
-Google Drive: 
-
-https://drive.google.com/file/d/1GoKwUKNR-rvX11QbKRN8MuBZw2hXKHGh/view?usp=sharing
-
-百度网盘： 
-
-链接: https://pan.baidu.com/s/1KHjj7T8y2H_eKE6w7HnWJA 提取码: 2b8v 
-
-## New! Zero-shot (cross-database) performance (SRCC) on the AIGC datasets.
+## Zero-shot (cross-database) performance (SRCC) on the AIGC datasets.
 
 | BIQA Model      | [*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf)   |  [*AGIQA-1K*](https://arxiv.org/pdf/2303.12618.pdf)  |  [*SJTU-H3D*](https://arxiv.org/pdf/2307.02808.pdf)  |  [*AIGCIQA2023*](https://arxiv.org/pdf/2307.00211.pdf) | Paper     | 
 | ---------- | :-----------:  | :-----------: | :-----------: | :-----------: | :-----------: |
