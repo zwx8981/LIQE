@@ -35,14 +35,13 @@ python BIQA_benchmark.py
 python demo.py
 ```
 
-
 # Demo2: import LIQE as a standalone module and perform inference
 ```bash
 python demo2.py
 ```
 
 # IQA-PyTorch implemenatation
-[**IQA-PyTorch**](https://github.com/chaofengc/IQA-PyTorch) support LIQE now! Can be easily used as follows:
+[**IQA-PyTorch**](https://github.com/chaofengc/IQA-PyTorch) supports LIQE now! Can be easily used as follows:
 
 ```bash
 import pyiqa
