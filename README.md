@@ -66,6 +66,10 @@ model = pyiqa.create_metric('liqe_mix', as_loss=False) #Trained on multiple data
 score = model(img_path)
 ```
 
+# New! Training LIQE on a single IQA dataset with quality labels only
+
+python train_liqe_single.py # it will train on official split of KonIQ-10k for fair comparison with other work
+
 ## Zero-shot (cross-database) performance (SRCC) on the AIGC datasets.
 
 | BIQA Model      | [*AGIQA-3K*](https://arxiv.org/pdf/2306.04717.pdf)   |  [*AGIQA-1K*](https://arxiv.org/pdf/2303.12618.pdf)  |  [*SJTU-H3D*](https://arxiv.org/pdf/2307.02808.pdf)  |  [*AIGCIQA2023*](https://arxiv.org/pdf/2307.00211.pdf) | Paper     | 
