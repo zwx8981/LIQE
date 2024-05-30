@@ -31,8 +31,6 @@ torch.backends.cudnn.benchmark = False
 
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
-mtl = 0 # 0:all 1:q+s 2:q+d
-
 initial_lr = 5e-6
 num_epoch = 6
 bs = 64
@@ -101,7 +99,6 @@ def train(model, best_result, best_epoch, srcc_dict):
     num_steps_per_epoch = 200
     local_counter = epoch * num_steps_per_epoch + 1
     model.eval()
-    refiner.train()
     loaders = []
     for loader in train_loaders:
         loaders.append(iter(loader))
@@ -146,11 +143,7 @@ def train(model, best_result, best_epoch, srcc_dict):
 
         total_loss = loss_m4(logits_quality, num_sample_per_task, gmos_batch.detach()).mean()
 
-        refined_q = refiner(logits_quality.unsqueeze(1))
-
-        refine_loss = nn.functional.mse_loss(refined_q, gmos_batch.half().detach())
-
-        total_loss = total_loss + 0.1*refine_loss
+        total_loss = total_loss
 
         total_loss.backward()
 
@@ -158,10 +151,8 @@ def train(model, best_result, best_epoch, srcc_dict):
             optimizer.step()
         else:
             convert_models_to_fp32(model)
-            convert_models_to_fp32(refiner)
             optimizer.step()
             clip.model.convert_weights(model)
-            clip.model.convert_weights(refiner)
 
         # statistics
         running_loss = beta * running_loss + (1 - beta) * total_loss.data.item()
@@ -181,7 +172,7 @@ def train(model, best_result, best_epoch, srcc_dict):
         start_time = time.time()
 
         train_loss.append(loss_corrected)
-    quality_result = {'val':{}, 'test':{}}
+
     all_result = {'val':{}, 'test':{}}
     if (epoch >= 0):
 
@@ -202,7 +193,6 @@ def train(model, best_result, best_epoch, srcc_dict):
             torch.save({
                 'epoch': epoch,
                 'model_state_dict': model.state_dict(),
-                'refiner_state_dict': refiner.state_dict(),
                 'optimizer_state_dict': optimizer.state_dict(),
                 'all_results':all_result
             }, ckpt_name)  # just change to your preferred folder/filename
@@ -212,7 +202,6 @@ def train(model, best_result, best_epoch, srcc_dict):
 
 def eval(loader, phase, dataset):
     model.eval()
-    refiner.eval()
     q_mos = []
     q_hat = []
     for step, sample_batched in enumerate(loader, 0):
@@ -235,30 +224,20 @@ def eval(loader, phase, dataset):
         quality_preds = 1 * logits_quality[:, 0] + 2 * logits_quality[:, 1] + 3 * logits_quality[:, 2] + \
                         4 * logits_quality[:, 3] + 5 * logits_quality[:, 4]
 
-        quality_preds = refiner(quality_preds.unsqueeze(1))
-
         q_hat = q_hat + quality_preds.cpu().tolist()
 
     srcc = scipy.stats.mstats.spearmanr(x=q_mos, y=q_hat)[0]
 
     print_text = dataset + ' ' + phase + ' finished'
     print(print_text)
-    refiner.train()
     return srcc
 
 num_workers = 8
 for session in range(0,1):
     model, preprocess = clip.load("ViT-B/32", device=device, jit=False)
 
-    refiner = torch.nn.Sequential(nn.Linear(1,32, bias=False),
-                                  nn.ReLU(inplace=True),
-                                  nn.Linear(32, 1))
-
-    clip.model.convert_weights(refiner)
-    refiner.to(device)
-
     optimizer = torch.optim.AdamW(
-        [{'params':model.parameters()}, {'params':refiner.parameters(), 'lr':initial_lr*1000}], lr=initial_lr,
+        model.parameters(), lr=initial_lr,
         weight_decay=0.001)
 
     scheduler = lr_scheduler.CosineAnnealingLR(optimizer, T_max=5)
@@ -306,12 +285,3 @@ for session in range(0,1):
     pkl_name = os.path.join('checkpoints', str(session+1), 'all_results.pkl')
     with open(pkl_name, 'wb') as f:
         pickle.dump(result_pkl, f)
-
-
-
-
-
-
-
-
-
