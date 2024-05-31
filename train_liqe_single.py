@@ -8,8 +8,7 @@ import random
 import time
 from MNL_Loss import Fidelity_Loss, loss_m4, Multi_Fidelity_Loss, Fidelity_Loss_distortion
 import scipy.stats
-from utils import (set_dataset_qonly, _preprocess2, _preprocess3, convert_models_to_fp32, set_dataset_spaq,
-                   set_dataset_ava, _preprocess2a, _preprocess3a, set_dataset_aigc)
+from utils import set_dataset_qonly, _preprocess2, _preprocess3, convert_models_to_fp32
 import torch.nn.functional as F
 from itertools import product
 import os
@@ -46,10 +45,6 @@ joint_texts = torch.cat([clip.tokenize(f"a photo with {c} quality") for c in qua
 
 preprocess2 = _preprocess2()
 preprocess3 = _preprocess3()
-
-preprocess2a = _preprocess2a()
-preprocess3a = _preprocess3a()
-
 
 opt = 0
 def freeze_model(opt):
