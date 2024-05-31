@@ -284,6 +284,77 @@ class ImageDataset_Inf(Dataset):
                   'scene_content2':scene_content2, 'scene_content3':scene_content3, 'valid':valid}
 
         return sample
+        
+class ImageDataset_qonly(Dataset):
+    def __init__(self, csv_file,
+                 img_dir,
+                 preprocess,
+                 num_patch,
+                 set,
+                 test,
+                 get_loader=get_default_img_loader):
+        """
+        Args:
+            csv_file (string): Path to the csv file with annotations.
+            img_dir (string): Directory of the images.
+            transform (callable, optional): transform to be applied on a sample.
+        """
+        if csv_file[-3:] == 'txt':
+            data = pd.read_csv(csv_file, sep='\t', header=None)
+            self.data = data
+        else:
+            data = pd.read_csv(csv_file, header=0)
+            self.data = data[data.split==set]
+        print('%d csv data successfully loaded!' % self.__len__())
+        self.img_dir = img_dir
+        self.loader = get_loader()
+        self.preprocess = preprocess
+        self.num_patch = num_patch
+        self.test = test
+
+    def __getitem__(self, index):
+        """
+        Args:
+            index (int): Index
+        Returns:
+            samples: a Tensor that represents a video segment.
+        """
+        image_name = os.path.join(self.img_dir, self.data.iloc[index, 0])
+        I = self.loader(image_name)
+        I = self.preprocess(I)
+        I = I.unsqueeze(0)
+        n_channels = 3
+        kernel_h = 224
+        kernel_w = 224
+        if (I.size(2) >= 1024) | (I.size(3) >= 1024):
+            step = 48
+        else:
+            step = 32
+        patches = I.unfold(2, kernel_h, step).unfold(3, kernel_w, step).permute(2, 3, 0, 1, 4, 5).reshape(-1,
+                                                                                                          n_channels,
+                                                                                                          kernel_h,
+                                                                                                          kernel_w)
+
+        assert patches.size(0) >= self.num_patch
+        #self.num_patch = np.minimum(patches.size(0), self.num_patch)
+        if self.test:
+            sel_step = patches.size(0) // self.num_patch
+            sel = torch.zeros(self.num_patch)
+            for i in range(self.num_patch):
+                sel[i] = sel_step * i
+            sel = sel.long()
+        else:
+            sel = torch.randint(low=0, high=patches.size(0), size=(self.num_patch, ))
+        patches = patches[sel, ...]
+        mos = self.data.iloc[index, 1]
+
+
+        sample = {'I': patches, 'mos': float(mos)}
+
+        return sample
+
+    def __len__(self):
+        return len(self.data)
 
     def __len__(self):
         return len(self.data.index)
