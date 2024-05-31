@@ -1,6 +1,6 @@
 from ImageDataset import ImageDataset
 from torch.utils.data import DataLoader
-from ImageDataset2 import ImageDataset2, ImageDataset_Inf, ImageDataset3
+from ImageDataset2 import ImageDataset2, ImageDataset_Inf, ImageDataset3, ImageDataset_qonly
 from ImageDataset import ImageDataset_SPAQ, ImageDataset_TID, ImageDataset_PIPAL, ImageDataset_ava
 
 from torchvision.transforms import Compose, ToTensor, Normalize, RandomHorizontalFlip
@@ -133,6 +133,25 @@ def set_ava(csv_file, bs, data_set, num_workers, preprocess, num_patch, test):
         preprocess=preprocess)
 
     loader = DataLoader(data, batch_size=bs, shuffle=False, pin_memory=True, num_workers=num_workers)
+
+    return loader
+
+def set_dataset_qonly(csv_file, bs, data_set, num_workers, preprocess, num_patch, test, set):
+
+    data = ImageDataset_qonly(
+        csv_file=csv_file,
+        img_dir=data_set,
+        num_patch=num_patch,
+        set=set,
+        test=test,
+        preprocess=preprocess)
+
+    if test:
+        shuffle = False
+    else:
+        shuffle = True
+
+    loader = DataLoader(data, batch_size=bs, shuffle=shuffle, pin_memory=True, num_workers=num_workers)
 
     return loader
 
