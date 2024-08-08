@@ -67,7 +67,7 @@ class LIQE(nn.Module):
         x = x.to(self.device)
         batch_size = x.size(0)
         x = self.normalize(x)
-        x = x.unfold(2, 224, self.step).unfold(3, 224, self.step).permute(2, 3, 0, 1, 4, 5).reshape(-1, 3, 224, 224)
+        x = x.unfold(2, 224, self.step).unfold(3, 224, self.step).permute(0, 2, 3, 1, 4, 5).reshape(batch_size, -1, 3, 224, 224)
 
         sel_step = x.size(0) // self.num_patch
         sel = torch.zeros(self.num_patch)
