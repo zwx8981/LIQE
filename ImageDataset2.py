@@ -71,7 +71,7 @@ class ImageDataset2(Dataset):
             step = 48
         else:
             step = 32
-        patches = I.unfold(2, kernel_h, step).unfold(3, kernel_w, step).permute(2, 3, 0, 1, 4, 5).reshape(-1,
+        patches = I.unfold(2, kernel_h, step).unfold(3, kernel_w, step).permute(0, 2, 3, 1, 4, 5).reshape(-1,
                                                                                                           n_channels,
                                                                                                           kernel_h,
                                                                                                           kernel_w)
