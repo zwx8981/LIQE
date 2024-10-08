@@ -75,7 +75,7 @@ class LIQE(nn.Module):
             sel[i] = sel_step * i
         sel = sel.long()
         x = x[:, sel, ...]
-        x = x.reshape(batch_size*num_patch, x.shape[2], x.shape[3], x.shape[4])
+        x = x.reshape(batch_size*self.num_patch, x.shape[2], x.shape[3], x.shape[4])
         #num_patch = x.size(1)
         #x = x.view(-1, x.size(2), x.size(3), x.size(4))
 
