@@ -1,6 +1,6 @@
 from ImageDataset import ImageDataset
 from torch.utils.data import DataLoader
-from ImageDataset2 import ImageDataset2, ImageDataset_Inf, ImageDataset3, ImageDataset_qonly
+from ImageDataset2 import ImageDataset2, ImageDataset_qonly
 from ImageDataset import ImageDataset_SPAQ, ImageDataset_TID, ImageDataset_PIPAL, ImageDataset_ava
 
 from torchvision.transforms import Compose, ToTensor, Normalize, RandomHorizontalFlip
@@ -27,41 +27,6 @@ def set_dataset(csv_file, bs, data_set, num_workers, preprocess, num_patch, test
         shuffle = False
     else:
         shuffle = True
-
-    loader = DataLoader(data, batch_size=bs, shuffle=shuffle, pin_memory=True, num_workers=num_workers)
-
-    return loader
-
-
-def set_dataset3(csv_file, bs, data_set, num_workers, preprocess, num_patch, test):
-
-    data = ImageDataset3(
-        csv_file=csv_file,
-        img_dir=data_set,
-        num_patch=num_patch,
-        test=test,
-        preprocess=preprocess)
-
-    if test:
-        shuffle = False
-    else:
-        shuffle = True
-
-    loader = DataLoader(data, batch_size=bs, shuffle=shuffle, pin_memory=True, num_workers=num_workers)
-
-    return loader
-
-
-def set_dataset2(csv_file, bs, data_set, num_workers, preprocess, num_patch, test):
-
-    data = ImageDataset_Inf(
-        csv_file=csv_file,
-        img_dir=data_set,
-        num_patch=num_patch,
-        test=test,
-        preprocess=preprocess)
-
-    shuffle = False
 
     loader = DataLoader(data, batch_size=bs, shuffle=shuffle, pin_memory=True, num_workers=num_workers)
 
